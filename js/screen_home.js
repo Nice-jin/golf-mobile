@@ -24,6 +24,8 @@
     if (sum.min_s) subParts.push(`Best ${sum.min_s}`);
     const dataBtn = A.el("button", { class: "ab-btn", onclick: () => A.go("settings") }, "데이터");
     A.setAppbar([svg("M3 11l9-8 9 8M5 9v11h14V9"), " 골프 라운딩"], subParts.join(" · ") || "라운드를 입력해보세요", dataBtn);
+    const cp = A.el("div", { style: { fontSize: "9px", color: "rgba(255,255,255,0.65)", textAlign: "center", lineHeight: "1.4", flex: "1", padding: "0 6px" } }, "Developed by Young-Jin  ©2026 All rights reserved");
+    document.querySelector("#appbar").insertBefore(cp, document.querySelector("#appbar").lastChild);
 
     const kpi = DB.homeKpi();
 
