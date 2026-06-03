@@ -1,1 +1,370 @@
-function a0_0x3bb0(_0x21b275,_0x1f3965){_0x21b275=_0x21b275-0x91;const _0x5997c8=a0_0x5997();let _0x3bb0e0=_0x5997c8[_0x21b275];if(a0_0x3bb0['jJEzdj']===undefined){var _0x1e57ad=function(_0x5e161){const _0x5629e1='abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789+/=';let _0x2e0f3e='',_0x5e4cfd='';for(let _0x441b2c=0x0,_0x279923,_0x3b03ce,_0x41d134=0x0;_0x3b03ce=_0x5e161['charAt'](_0x41d134++);~_0x3b03ce&&(_0x279923=_0x441b2c%0x4?_0x279923*0x40+_0x3b03ce:_0x3b03ce,_0x441b2c++%0x4)?_0x2e0f3e+=String['fromCharCode'](0xff&_0x279923>>(-0x2*_0x441b2c&0x6)):0x0){_0x3b03ce=_0x5629e1['indexOf'](_0x3b03ce);}for(let _0x53cebb=0x0,_0x5cbfb8=_0x2e0f3e['length'];_0x53cebb<_0x5cbfb8;_0x53cebb++){_0x5e4cfd+='%'+('00'+_0x2e0f3e['charCodeAt'](_0x53cebb)['toString'](0x10))['slice'](-0x2);}return decodeURIComponent(_0x5e4cfd);};const _0xccc259=function(_0x4dfe91,_0x530df0){let _0x49f2f7=[],_0x11d241=0x0,_0x31ad80,_0x3f031e='';_0x4dfe91=_0x1e57ad(_0x4dfe91);let _0x3ef650;for(_0x3ef650=0x0;_0x3ef650<0x100;_0x3ef650++){_0x49f2f7[_0x3ef650]=_0x3ef650;}for(_0x3ef650=0x0;_0x3ef650<0x100;_0x3ef650++){_0x11d241=(_0x11d241+_0x49f2f7[_0x3ef650]+_0x530df0['charCodeAt'](_0x3ef650%_0x530df0['length']))%0x100,_0x31ad80=_0x49f2f7[_0x3ef650],_0x49f2f7[_0x3ef650]=_0x49f2f7[_0x11d241],_0x49f2f7[_0x11d241]=_0x31ad80;}_0x3ef650=0x0,_0x11d241=0x0;for(let _0x59b19b=0x0;_0x59b19b<_0x4dfe91['length'];_0x59b19b++){_0x3ef650=(_0x3ef650+0x1)%0x100,_0x11d241=(_0x11d241+_0x49f2f7[_0x3ef650])%0x100,_0x31ad80=_0x49f2f7[_0x3ef650],_0x49f2f7[_0x3ef650]=_0x49f2f7[_0x11d241],_0x49f2f7[_0x11d241]=_0x31ad80,_0x3f031e+=String['fromCharCode'](_0x4dfe91['charCodeAt'](_0x59b19b)^_0x49f2f7[(_0x49f2f7[_0x3ef650]+_0x49f2f7[_0x11d241])%0x100]);}return _0x3f031e;};a0_0x3bb0['WCjiqw']=_0xccc259,a0_0x3bb0['vwZZep']={},a0_0x3bb0['jJEzdj']=!![];}const _0x1c1639=_0x5997c8[0x0],_0xa96f12=_0x21b275+_0x1c1639,_0x1aff1c=a0_0x3bb0['vwZZep'][_0xa96f12];return!_0x1aff1c?(a0_0x3bb0['oerVLu']===undefined&&(a0_0x3bb0['oerVLu']=!![]),_0x3bb0e0=a0_0x3bb0['WCjiqw'](_0x3bb0e0,_0x1f3965),a0_0x3bb0['vwZZep'][_0xa96f12]=_0x3bb0e0):_0x3bb0e0=_0x1aff1c,_0x3bb0e0;}function a0_0x5997(){const _0x11fb27=['v8khW4VRSiNRLQq','67os65wLzoYCGEYcJ8o9','7zQuE+UoSoYESE2fPEQWSSoR7jwJ7iUW64Mm64MT','nSk6wSkp','W5beqmktzwxdIW','chJcHwCziIBcRG','W4ldOgdRG5HME8kue8oWja','WQPMyCoN','kCo1W7TeWOTXW7D3WPqn','WRqBWPddSmkCWR44W5XR','67cG65s/lUYEJUYdNcK','u8omEa','WRWbBa','WO5TwCkAWR4J','WO5RtSkGWQmKWP3cG8om','kuukW6NdTK4W','W4hTJBZTIR537j2h7zAICq','W5nLmbq','atRcLbi','xSo/qSk6W4G','W7NcIa0','FmkNWRyw','W716Fmk/W5P3r8ocW4/cRmkZW4HjbH/cHXNcJmkLWQn0','W7eoWOVdVCoEWQC0','WPdcPSkyW54Yisi','W7C9W7dcO2juW7G','B8kov+YEV+Q4Qa','W7FdReCZWPCqW5e3W77dJCk/WRFdLSoKgCknW749kgNcRq','vgFcKG','WPq2lbKJ','yCkPBmkzW5m4mCohx8kmbxCd','wCk2WRi','W5hdRmoRFmkJbfZcQs3dUa8','FMzjhtVdNG','W57cJHJdTmo5amo1W4K','CCoPwmoFsY9+sSo2W6lcGGVcHW','W53cQ8kI','WQhcLWiNAq4','WO0OWQpdSCk+','W4RcMqxdNq','W4ZcMXZdNmo4cG','uxJcGZxcR0ddVCkO','WQGQWQ8GumoNBIFcOWau','W5jkASkpEa','WQC+WRtcIdPCWR/dJq','WRWUtItdNXO','oWqGgsFcS8oweG','WROQWPq2FSoxCG','oGva','64Y867oN7j+U','WRzBW74','W5ZcS8kf','7yYS6Rs7W7RTJyK','wmkNiHldGmofW4pdV8kMWRBdK8kxiKm','7lUF7yIt67UJ','7yYS6RsFxG','WQ4GsH8CWPWT','66Q07zgPuUYJIEYDOEUqLG','646m67ce7jYc67gUWPdTHR3QSje','WQuIW7lcM8oVoa','W4vDyCkLBwZdJNDjWPu','W5FcQJzC','pXPrW6tcHmkkW4LVcW','W613WPyl','kHXdW4/cHa','A1qEWRZcOq','nmoRW53dHvddNMVcVq','66cj7iQ47yIQ67gw','WP7dI+2mKo2iGq','7y2F6RE9lUYjVoY+GoYvLW','W77dIquT','ESkVWRaxWOL5W75bWRSiDNNdOa','mGlcKW','zmk4yCkpW5m','WOdcMCkOocdcJuK2WRviBfe','W685n8kS','WORdJ8oJ','DCk8Eq','W686nmoAWP8Vhq','nWCRkJ3cT8oydSo1','7ywZ6Rgyh+U2L+YhUq','g2VcHM8z','n8oNW58','u8o4ra','rmoLu8k7WPhdRSonW5i','6Rsq7yU67ict','WRiOW6JcJSoMfCkJW5/dLgPJFCo6xb0eW6ZcMmokua','7lAG7zsD6RcL','h8oxWOZdOCovWOpdJXxcJZG','WONdG8oHE1S1DSkltSozWPi','67IR7jQJW4tTHRBQSRHeyq','W69irCkPWPfBeW','cSo6EfFcLmkh','W6WQESk/WOK','mmoRW4FdVfRdGG','WPTYxCkEWRWyWPxcG8omnSo8','svHAvftcOmkGBCkxn8oMW48+','phbFhG','W6XMcNdcGe5CW7e5zSkIW74jW4u','W5z4W6r4D8kqxCkAEmkf','jrlcK8kTwmklWRVdOWK','WQCVFSkG','67cG65s/7jIUW5lSNANSG4hcHG','WOy+nG','yCoAeCkT','h8o+ELBcLa','DmkmrW','W4qWnG','W4vBDSkFC2q','zsRdHcnCrgNdVbdcQSo3WPRcHwFcI8kYrmo2pItdJgOWtxvetdPYbmoYW73cMCkbuGxcNcuCahBdVMmqoCogW5jtW7dcTYVdG8kwWPpdP8oKW6LgW4OiWQFcN8k9t8oGW6JdQbpdTaHJyeFdNJldKCkAWRO7WRGAt8k7ycSdW6CgDCkhxMTknLJcId0NgHZdVCoYyIVcUSo9gSoyp8oVt8odpSo7W6FdTmkRDmkHyc3dHMHKW5NdHSoMW6z0wmkwW6hcPSoXlsZcR8oIW4RcMxZdVrhcNupdKSkPCLJcNJldRM01xmkCev7cVJBdUd3dT8oSWORdISoptsxdR8omiCoDWQyhW6DfdtyXCdK2W6RdOhCotxBcV8kNWQxcQW3cLmkjW4xdSYPNnutdUSkUwJivwCoeW7xcRxFdHSoXjwWJWP0bDLRcLmoUW53cVNXsWRVdGJZcK2fTW6xcIHmtf8omW4jgtSo7EmoPFSkcfhVdIxNcL0hcMmoDW5DLWRi1FSksW6tcQIVcUq0SbCo4W4emEmkVwuJcM0bbWRhcTCoZt2HJWRVcMx/cJJSjW6K7DIv7W5hcTmkYv8kUW6NcGCkvhSoiF8kbFSkdxCkDlCkBnCkuWOKAFfSlDfRdPmoIWPZdKmoMWP/cUhRdMftdOmolemoOsmkeWRhdVuivzSkuWRldObRdJ8otoGNcLmotW4RcNCoPW67cMKJdG0b1W4ZcTNzgWOHEsmoUy8kPwSo5W6ldQmkZomoAW4XlxCk2W5ZcMCosW4vrWQrcB0lcRXNdU8kNW67dQw0PbSkuFmoXdgVdP2qDW6OCuYvKW6BdI2FdVM9BjCode8kkWP/cNCkZWQNdNeewWRvEWQpdTK7cLmo9vwiMbb5SsWKrW4xcS2pdNJfmmSo4z0lcN0KZuNxcIx/cHb5hysjteCoFW7n4W4JcSmokCflcP8oXx8kTW4tdJNyHDCkDWOPcuSkCWQVdLmkOWQ3dJWC3wdxcG8oRWQZcHbafsvVcJYSgWRbqjJFcKcRcTCkizmkRW7pcQCoQW5ddPMtcLCkCWPmwWOlcQmoRb8kBWRu3yuTzmqRcIHBdLCkJegJdNcCgEmorpCkjfmoevapcH8oFcHe3WQvWwbRdQMRdTCoZjM53fSoXoCoYytJcOXamW5CZiCkeb8obgSkJW7vdWPbipuqgsmknuLvOWPZdHCkxW515W4lcVmoelxxcNSoGWQT1mvpcP2hdJIv3aMvfBfqVc8k8WRNcVCobDmoZW4FdQ8k6WPGxW7BdRCkqxmkpusJcPXazhatcT8osWPJdOK7cOCo8bNFcGfDbW4iiAeSOW5JcLaVcISo+B8oxmmk0W5pdTGVdLmoXeSo8WP7dHgOMzSotxSoSW5NdKurKW4NdNtOIW5JdRSkCkmoWj8kdzc/cRvtcKXNcSc7dHSkhWRnCCqVdPCoolCkVjmkur8ogurnSnSkNBsDKgmk3vrNdQmkGWOK+W4a0nG87eGWhofVdJY/dMwBcQYese0/dISoGimkHW7SY','sSkRiHC','WOLXtmkh','W47dP8oBEq4Pnmk8sSovWOuZcSkPW74TvmoDCehdKfpcPCkmyWuBaZtdQSkfWOTEhmoPWQBcVeuOrmoWWQaAW5VcLCkRWOFdK3OxqmopWRKlWODVofzEC0H2g2VdMSoyWQlcHCoOW71frJPfW4ldK8k5W4ywcCoCW70/lmoqW5RcR8kxpHq7sCkGjSknbCoqW75rW7pcKSkFW5BcTvtcQ8oFWQpcHG','W4RcVIrmW7bUW657W6a','yCo+W5hcQeZdN3pcVdFdGCkqqZFdRmkDWRO0W7enCSoVWPy','WPq2mKrRfmkfbCo8Cmkya8o4','W5tdQ8oQya','oqLc','WQDTDSo4WQFcJe/cLmoNW5uKWRCrgmkgWPnEW68HW5JdHq','WQ4GsH8CWP46','W7yoWOVdVCkBWRGGW5LQW4r3ohyMpHLzWO7dRCkBW5G','7yQk7igb7jAV7jMo','zXXoWPVdGSkvW4u','b8o+E0y','7zIwuEYjLa','WO3dG8o7suSR','o8kaWOrgW5iPWPm','W7dcRa8','eZ7dLc/dUHBcUq','lCoNbCoJl8o0W54','W4DeASkpCg4','CmoiW6/dJGRcIvS','7yYS6RsFxUYiQ+Y8Q+YxVG','WPRdICoHxei','W7CJW5RcL8o0uW','nmoWyIaKAJRcQhpcL8k7aCkyrW','WRibBa','W4BdJ07dIKL9W5i','WQHJCG','7y6A6RwUWONSIkZSVAVSLiq','WOX8w8kB','W4/dGSor','W5KDWPC','E8k3aCoC','WQC4WQ/cTZa','WQpcLWyHvXZdI8krhSkZWRJcPfy','WQe5wJiyWPO','W6iNW5tcUmo1tW9s','WPqKWQmGsG','AfWg','yCoNwmkYb2fI','W5tdJ07cUu0oWQfEW4lcUmkY','W5pdS8on','WRS+xYuCWRuPlmoJWRFcN8kzsCkv','mCoqhSkOtq','WOT0xW','WRvbzbe','W7LLhNKOWP4mhmowWPi','lmoUfmoC','WQ4GsH8k','WRaYWRy','7koS7zE2nU2pQUQ0KCovW58','hmkK7j2g7ico','WOrHAIPw','cqKy','fSoxWPJdUCoZWRtdLHxcNG','DY7cPH8','ESkVWRaxWOL5W75dWRW5','WPL8w8oxW71QWOBcLmorj8k/m8ok','FCkRWRihWPK','imkPDq','dmoxWPNcPCkDW7hdIXZcGJ8upCo3','WQFdR0X6WOmr','WO14wSklWO8QWOS','W4mTWReN','mb0Pdq','W7lSLAZSHQq','WONcTmkPmCoefKRcKGNdQaqqWRq','nbFcL8k8rCkW','6RAF7yQ77icGAEYDKUYaPse','W6vVWRdcVq','66oy7iUv7yQS67kvxEYFPo2uG8oQ','CmkWF8kEW59WdmopqSkv','DIFcTYfoAYJdSSkInCo3','WOpcN8kX','w1bE','W4WTh8ol','wCo+xmkQ','WQtdHJtSGQJRJBxcSa','W5ZcLSkLdqnPk8o/g8kj','WOqIWQe','W6vQWRdcVq','WOi+WQm1sCkk','WReXttxdRHWjWQu5qmk9W6G9','WO43WRtdSCkPW6i','jHaOjJRcTCofca','CxLxhq','7yYN6RwgWRu','WRGSWPa','W57cHU2pQE2kHq','vMlcGri','WP87ttu','WRvMWO7dUW','gmodWP/dUCoFWRi','gCozWOFdOCorWQZdJbW','jqvgWQVcVNSbW4BcVa','W6ZcNenMo03cMq','WOj8wq','DmkNWQawWOW','WQ7cIauWzHO','xMhcIG8','WQqFWOhcUq','W7eNW5tcRmkR','WPRcN8oxWRW','W7hcQaOJWP0yW78iW7ZcRW','mSo+W5NdRvhdLa','dSozWP/dRmoC','WQarWPZcUCk3WQmPW5u','67cs65wb7jQv','CdtcPdHCDshdJSkP','r8kLqSkJW4NdQq','jhldSW','qmkIuCkeymk1WPlcLwNcGCo/WRlcJaC3W5ddGXjPjmoSdSkItCo3vCklBx/cImouhJtdVaBcMSkUaJNcUSkeF8kSAmkexSoEWOnZW593W5ZdH8koWP5xWPxdUXvzW6VcNqS7cx07W45JESoKrcSTDCoGW6GWWPVdP2D4WPieWPFcSSkyWPRdT8kRmKqRiComwf8IW5pcNYJdJuCDnSkZr8kiWQKZWQVdI8oAW5GqWRJdN8kJW57cKmkLW7xcRmkmW5z6WR3cUmkVW5hdSfFcTxT4WO0IWRtcJsBdO8oBDSo9W7KmxCkCWPtcJs7dS8kNW7izxNhcT8kHWQBdQ8k7yhCHE24mDhFdNXZdPMGBWQFcSSkYWQxcValdMt9Vxea+v8oDrSoXsmkgoJCCfg17W5joW65sWRNdSvWjWR9qpv8mtMZcHSkhWRddS2VcHSo5WP4ZzL7cH8kKW5tcHvRcPMRdK8kNW6iyqSoJW6TqW7fEW4VdTfRcPg1NW7tdImoDW71KWPuGWQtcUq3cRCoEhd7cN8kaW6hcSbpcT8kCW7pdJCkFW5NcJhddVqNcHh3dHCopWOOLW7xdUMNcOqPtB8kOW5SQW5FcG8oIAI1rkSkcs1NcNfWHWQigWPxdPSomrsRdVSoTjCkHDmk0pIitqCk+W4FdMN9FCCoSWQFdKmoKyabbbmk6qmkUWQiQzmo0WRycWPiFy3hdQ8k+fSo3pmk9l8o+DZnNymkbd0BdVafHW6KgW6FdKY5HW5KEWO/dHcpdGspcQNGrW5BcK8k1wCoXusHtW47dQ8omz8opWRRcUsPtimk+hse9W7m6WOD7W5RcJmkpW6q8WOhcOmkKCSkyWR/cKtBdReyTW6pcNhpdGmo5D8kuWQyKt8k3oWz/CSohuLZdJCkckGpcMGfEsCkVWQzQk1q','WPtcHSkMpXRdLe42WP5syfRdJW','7yYg6RA2dEUYToQ5Iq','svHecrW','7y6O7yUJW6JSNRhTLi0B','W6nRW7a','WR83tcxdMbS3WQy7qmk9W6aR','W6/dN17cR19QW4qkWOFcJSkdWOvHgwaNWPBcJNDHWOaVr8oIb8kaA0P4wNqYWQJcMmosx8octCkRWPuSySoOux4ZW4tcGmkeFCkwhNXIWO5YCCkVW5rGW6aWWP/cNr3dOCoqoCohW4yxW7KMt0tcVwueWQe2W6tdOgBdI8oibsXkhgBcO8oHWPimamkuWQy2ywH4WQRcIq3cSXLlW7DNj8o5WOL8dSo5zWf7W7NcQCo7WQ3cOu4mW6ddM10gW6xdJKBcSmkUpcPdW57cG8oSdJhdH8o4WORdGcTaeSoDWQ4ogCoWrCoXzMxcGmoIW4BcLuPqkmoYbsOxfry/W4yWDYmne0TtWO7cJuv5EY/dP2xcI8oiWO8xW7pcRMtcUcdcNMJcUdSpW6VdKcbIswZcKKCWeMJdJW','W4KBWR4','W7fYyCk8WOVcL0BcMmoCWPG7WRG','W7j0Ea','W4FcRYDDW51I','hhTPsKhdJSoS','W7i8W4S','W5DozCoxAwNdM2jj','64+i67gA7j2t','CIFcRrnEDq','W7FcRu9R','WQS/wW','vwpcLb7cTq','W4dcScv9W5jLW68','WOmQWQuL','W6mbW7JdTW','W7rPymo4WRBcL03dKmoZWOC7WRScqSos','W7auBb02W781WRDqsSoN','WP4YWQFdGCk0t8o+','wmkPzLS','WOfWzZXwW5C6W5zBaLRdKWe','lCoThSoah8oHW5FdKbBcV8otWPa','rhZcJrRcOetdKmkXWOdcRG','q8o+rSkUW5ddHCopW5e+','W5jkDmosmc3dM2TuWPpdOWBdLW','6RAr66sV7zsQ','W6bTWP7cQSkYW4SK','WPWIWRddK8kOW6C+','WReFWOhdTCofW7O4W5v2WPaSAY0','dNZcG1Wrhq','yJBcUGTE','mxxdPa','WPpcMCkZprpcPKKNWOK','ACoNxCkfb3i','WOBcGmkGaW/cLu0QWO9x','amkHaG','7zMF67osgE2mHo2lRCkA67Aw7y6D','WPuzDSkc','ySkSECkoW4vkpSoduW','WQVcKqm','jSo0Dt0','gCoHa8objCo7W4e','mComfSkOtr3cRSoBzYeitCkt','xfHAga','bSkDoSom','WRZcNqeuEa7dImkCaa','W4eXjGO','7zET6Rk1na','jSovaq','mCk/A8kC','WOdcQSkl','64oHpo2nM+Q1ISkq','cSo+zeC','bMtcIMyolb3cKxW','WQ4ljSoApsdcJY4mWRtcI3JcUZynW7qcWR8tW7BcOmoXwh1NW73cVCkPWOHUWPpcJSkzx8oQW6KlW5DDW7RdMs4mWQrJW5erhmoKWOtcSdvQWRtcJmkdomk3wmkwWO8mW4PxWQhcJW8qvXhdMmkkW7qMW688W7pdKtTHW5apfglcJ8o4b8o5e2tdQSkudI/cRSoRWR3cGCoVWOVdTdRcRwZdP05JWPJdPmktzSoyWR4bsHxdVhyVAePmafSaWO7cLmkmnmksWPvbwYddT8oiA8oqfCk0W6ldOmo2W6LvndZcM8o+Cmo6zf/cTCo4W5CuWPldSd0QgwRdSxVdVmoDxXq4WR85WRZcGCkNWOv2rmohWQtdMmoDW5/cSCkxW6PHCSo5W6lcNvy2C8oueSozcCkBWOhcRxj5W5iOWPJcPWpdJCosqmksWPNcSqTjWQZcP3/cGmkry8ohW5DNcmoqW7xdM8kmW4OIW7ldUSoJeSohrCozW5OkW61xWPm6WRv5n8o/zc8sWPm7W4RdKIe8W5ZdGSkHymoTx3a+mmkBWOldV8oMWPZdGmkjW7tdRHyPp2rizSkmW5jyx8kUnxTtDKlcUWlcOffEeSojmmkWWPqmiwaqWRVdI8k1WRfXW6ZdQmk7wNqoFXhdRxaZWPNdNL/dMdBcP8oDDWz4aLbtW5dcOmkzWPGpE8ozWQNcNmoowg9LW5BcJSklW5VcT8ozW7xdSCoaEcSddmojW4VcVmoHimkFdIGSFCo9W5VcH3xdIgpdMWWWW7vsE8oJW6VdOwVcOMZdHZa2WPtdKg5/W5fdWRHnWO8jWOK4WQxdGmoZWQBdQhldN8otWPhcOJhdMIi7WQv4ASkUW6DaySoMc8obWPnsfmk0nfukWQzdfMrbsHxcO8kvWP1EWOxdUmksWR3dPKdcU3qZW7JdGmoPCSkcoLy6WPxcOv/dJc4mW5Camb4Hc8ooW7tcUIJcKW3dMSkOkh5WWRJdHL1hWOSFk8o0WRFcH8ohWPJcSSkpW5hdVmkPiI7cLwpdSfBdPsNdOe/cQMGcW4SScmoWwuZdMSkthxxdUZbdcfpdL8kCW4RcTxJcLu4DW7SC','W4NcGHO','lSoRbW','ztlcTHnp','W6bTWP7cQSkY','W44aWOdcGmkRcSkPW60NdmkkhgxcJNm','ACk2emkuCmkLWOi','WOZdICoNwuSRwmk9x8omWO9+','64AcWRZRQPBTKy/dHoYfM+YIQa','7y6z7yMhvUYFU+2uP2m','WPBcJX/dRbPNWOzpW5pcQSkJWQXk','CCoPrSkcaW','W5LTuq','g8oWy03cLq','WPRcMCoxWRW','WQmxWOu','BbXo','WPTYxCkEWRWyWPFcH8oD','aCkvpG','W6n4WO3cGCo8W5u1mSkiW4zKc8kqwmkH','65+y7jQF65oA64IdpE2pIEQ1JW','fSkzk8kfWPi6WOdcGmo6','W5rVDL12wmkFaCoUy8oh','BKz+baxcLSoTpSoc','W7edWR3cUspcTZ0','W6uUrG','W7f6WOVcQSk8W5W','66I57zgqW4ZSI63SO4q','W7jLWP7cKCk4W4aplCkiW4C','kM0zWQhcLKS7','DrCQeW','DSkOia','nGlcICkTtSkM','W6b8FmoWW7NdJLFcMmo7WOf/W6rk','WQCxiG9cW7zI','W5BdHSo3Eq','c8oWzeFcLmkhWRxcQmk+WRVdJSkn','dSoeWOldVCoCWRNdObtcMZm','WQqUWRtcSsy','W4uqW7hcJCoAFNbZsCkvW7dcVmkLWPLBA8kjWO9jW7hdTgvmus5NWRCqBmkOh8kZW7/dTJVdTc98xcu7WOVcRCkhW7WbcCocWRpcGHTVvColwCkdC3ZdM8k6WPldNSoVhmktW4lcNtNcRs3cIGldKSk8W41JA8khq8kcWQmZDCkuW5hdLCkLsCobWQ3dICo7W4lcG8kcubZdVWLVnausWOhdISoCxSoaWOtcSNvRfCk/WRtcM3iKncBcOZbQW7hcLcOOt8kaufG3dSk+W6PoEhSzW4pdSgO2rSkuWQNcJhJdR1jsFhZdH8kRWOldGaVdTmoUWPCqWRrKyGZcRH7cI8oBf0TGiXVdSSkZWPdcP8ksW654qSo/W6/cOhykW4hcI8kBWRmeWPT8W5TwahlcQL3cRColBuD8sw3cM8k2sJxcLMJdJt7cLYLlWQVdGZpdN8k9zvJcPSoGWPdcHICVW4/cKSoDWPldUmoTn8oFWP0KaCoVW5dcNqT/aSkXWRNdM8kMj8opW6T1WR/cOmo3W5/cScSaW6uRWQ3cPCkiW6PlEmo/ANitW4tcQ8oWW75Rzmkpd1RcOrFdTmkiqN9NlM0rggBdVCowWQaUwmk3yummxxGPy07dOvVdSIGxW7uEW4ZdSJXPfHGEWOKrW70tsd/dTmkfWPbLrmokzmkqWO9MW63cGJldH8oTW7dcI8k8W5ZcIKu3qColWR1aWRZcLHvAdmkYmKFdJCoMACk1ACojW4NdI1JcVhtcSCoaWRBcGv1LmaxdGwBdISk+WOhcKZv9lCoGWQddNCoMWOtdMheTWQzHDmoWWPxcO8kfCmoWWQawW7xcVCkjWQ/dM8oeW6HgrCkFW5Gv','W6C7joUXQ+Q6Mq','67UI7kEoFX3cMG','xCkwWQRdG8o0W7ZcMa','WRFcHSkXW4qEahyhimo7fmo7W4FcIbFdP8o4EmoDW6VcKbyAWRxdU8ofWP/dVeZcVSkvDYbqsrxdGCoEvG','WPpcUSkOBCk2wv/cMX3dG0rcW6u','WPzPCa','mCoidSkNtq','mq7cKq','7lMw65wt7zAG','WOhcLGG','W5BdG8k3ja','W5xdSmknW7K','WOT8xCkA','lazlW77cR1mEW6JcLSki','FmkVWRq','mHG6','66cc7iUi7yQo67ghW5JSNPhTL6uN','W6vTB8k2','jCoTomokW49YeCo0tCk5','n2NdPSoEW59M','DSkGjNrXvctcVg3cHmkw','kGrtW5RcLa','fSotWOxdQSoeWRq','CYVcSqnsyG','W6dTJkFTIBJSNRhSGPq','64AGW6pRQztTK519iIvK7iQl7kkYESkh7jUd7zEwhG','W6nPWO/dMmkLW4WKlmke','C8o4x8kdeG','W611WPylp8kgAI0','WQ8PW7lcISo4aSkeW7hdTW','d8oZC1S','wSofWP/dRmoeW7hdIXJcMgzwyq','7yYR6RA3yo2lLoUNQU2uTCoA','W5f9WQC5','svHAvftcOmkZESkkjSkLW5q','WQqUW67cI8oJl8kpW5pdLuDRnmkQ','WQGYW7hcISo4i8kZ','W54vWPpcKa','WR9+zCoRWOrSsSojW4NdRCk3','jWJcKSk3tW','bSkzjSoCWOmH','W7P6Fa','FvWaWO8','WQC3uI9aWQKF','WOFcMG3dUYaNWP0','yCkWuEUpSoU5La','BKutWQC','WOxcS8knW6qZma','W6rcW7dcRYxcHhu','7yIv66wh7zwGWPlcVUYCMU2xMCki','WOqKWQiJsSkbv8k9','zmoTrmkda3a','hCoWyKlcNCkQWPtcPSk4WRS','WPhcQCkZnCo3extcKWtdJW','ELagWO3cPuOT','z0m8dq','iNpdU1CnrG/dUSkpimoT','W7zLWPRcKmkoW5u8nCks','W5LYW6mtuSkOB8kvuq','DEUsUoYLGG','WOyKWQuer8khya','W7C3W6tdJ8o5jCk8W5xdNZHWpmk2vaajW4hcV8oGft8','WO0ZWQRcTmkLW7i8c8o4WOWRWQNdVa','WOX4r8klWRu1','WO7dMLNcJ8kJlCkX','7y2z6RESW4ZRSBhRL4u','oCo2emoqmW','wwdcIG/cVMNdM8krWQ0','yCoKt8kp','7lAB6RAcW4dQS4hSMlW','bmo+zG','ACoNrmks','fSkmkCog','ySk8W5NdSa','7zAY64Q+WRZQU5/QSO7SLPRdSoUFGoYyJ+UtHoQWHN3SLilSL4JSMRK','W6T3WQ3dGSk6EW','W798W59k','W7DTFSk9WRRcHW','7j2S67gI7yM6','WO7cJqRdNW','WRvLW5ZdSmo/hJq','WPldM8oFW6tcHCkSua','gwVcLITrst3cUuJcJCkFW6xdQq','y8oHxa','ESkZWRyhWO9Y','WPJTJ5FTIj/dRoYFG+2wHae','WOZcTCkQmmoV','W7XNfxbpWQSscmoFWRFcQa','W4hcSdHCW6XYW6jYW5TrW43dUW','WPL8rCkkWRu','BLarW6tcSfC8W53cSG','WRNcMqD9jvpdJCkpf8kjWRVdRa','8yUZT8kO'];a0_0x5997=function(){return _0x11fb27;};return a0_0x5997();}(function(_0x41af93,_0x1384f4){const _0x309311=a0_0x3bb0,_0x5afc40=_0x41af93();while(!![]){try{const _0x4c0e28=-parseInt(_0x309311(0x9d,'QzM*'))/0x1*(parseInt(_0x309311(0x125,'EA78'))/0x2)+-parseInt(_0x309311(0x168,'LNYY'))/0x3*(parseInt(_0x309311(0x1d2,'QzM*'))/0x4)+-parseInt(_0x309311(0x96,'WK6B'))/0x5+-parseInt(_0x309311(0x19c,'Zb6['))/0x6*(parseInt(_0x309311(0xe2,'LNYY'))/0x7)+-parseInt(_0x309311(0x97,'d7D3'))/0x8*(parseInt(_0x309311(0xe0,'v#gr'))/0x9)+parseInt(_0x309311(0xba,'V#%%'))/0xa*(-parseInt(_0x309311(0xb5,'QzM*'))/0xb)+parseInt(_0x309311(0x13a,'zW14'))/0xc;if(_0x4c0e28===_0x1384f4)break;else _0x5afc40['push'](_0x5afc40['shift']());}catch(_0x5272a9){_0x5afc40['push'](_0x5afc40['shift']());}}}(a0_0x5997,0x33ebf),(function(){'use strict';const _0x5c3435=a0_0x3bb0;const _0x5629e1=window[_0x5c3435(0x213,'vf$Q')]=window['Screens']||{},_0x2e0f3e={'잘함':[_0x5c3435(0x153,'N)Bb'),_0x5c3435(0x1bf,'rgmF')],'보통':['#eef1f4',_0x5c3435(0x173,'zW14')],'아쉬움':[_0x5c3435(0x160,'N)Bb'),_0x5c3435(0xf7,'u1B4')],'노력':[_0x5c3435(0x1fc,'(250'),'#fff'],'-':['#f1f2f4',_0x5c3435(0xf4,'TTm4')]},_0x5e4cfd=_0x3b03ce=>_0x3b03ce==null?'-':String(Math[_0x5c3435(0xcf,'UXZ@')](_0x3b03ce*0xa)/0xa),_0x441b2c=()=>{const _0x5b9e58=_0x5c3435,_0x41d134=new Date(),_0x53cebb=_0x5cbfb8=>String(_0x5cbfb8)[_0x5b9e58(0x1c8,'d7D3')](0x2,'0');return _0x41d134[_0x5b9e58(0x15e,'IA*X')]()+'-'+_0x53cebb(_0x41d134[_0x5b9e58(0x147,'qEP9')]()+0x1)+'-'+_0x53cebb(_0x41d134[_0x5b9e58(0xde,'QzM*')]());},_0x279923=()=>new Date()['getFullYear']()+_0x5c3435(0xf3,'4pRF');_0x5629e1[_0x5c3435(0xea,'vf$Q')]=function(_0x4dfe91){const _0x15106c=_0x5c3435,_0x530df0=window[_0x15106c(0x124,'Vqab')];_0x530df0[_0x15106c(0x217,'b#E@')](_0x15106c(0x155,'NM(D'),'');let _0x49f2f7='종합',_0x11d241=_0x279923(),_0x31ad80=_0x441b2c(),_0x3f031e=![];const _0x3ef650=['종합',_0x15106c(0x136,'Zb6['),'분포','비용','목표'],_0x59b19b=_0x3ef650[_0x15106c(0xee,'zW14')](_0x2293f7=>{const _0x15b87a=_0x15106c,_0x2f73e2=_0x530df0['el'](_0x15b87a(0x211,'b#E@'),{'class':_0x15b87a(0x159,'^tVN')+(_0x2293f7===_0x49f2f7?'\x20stat-tab-on':''),'onclick':()=>{_0x49f2f7=_0x2293f7,_0x259a45();}},_0x2293f7);return _0x2f73e2;}),_0x42ff65=_0x530df0['el'](_0x15106c(0xb6,'Vqab'),{'class':_0x15106c(0xce,'N)Bb')},_0x59b19b),_0x5130cb=_0x530df0['el'](_0x15106c(0xb9,'3E*F'),{'class':_0x15106c(0x225,'(250')}),_0xf5be8c=_0x530df0['el'](_0x15106c(0xfc,'Vqab'),{'class':_0x15106c(0x93,'LOd%'),'onclick':()=>{_0x3f031e=!_0x3f031e,_0x5174a1();}},'설정'),_0x2b4ed2=_0x530df0['el'](_0x15106c(0x151,'IA*X'),{'class':'stat-filter-bar'},[_0x5130cb,_0xf5be8c]),_0x2cbf6a=_0x530df0['el'](_0x15106c(0x22f,'YQg@')),_0x1607ef=_0x530df0['el'](_0x15106c(0x21c,'dpnK'));_0x4dfe91[_0x15106c(0x132,'c]MJ')](_0x42ff65,_0x2b4ed2,_0x2cbf6a,_0x1607ef);function _0x174f66(){const _0x23d7fb=_0x15106c;_0x5130cb[_0x23d7fb(0x1fb,'G1W(')]=_0x23d7fb(0x104,'xRF0')+_0x11d241+_0x23d7fb(0x162,'N)Bb')+_0x31ad80;}_0x174f66();function _0x5174a1(){const _0xffa543=_0x15106c;_0x2cbf6a[_0xffa543(0xeb,'JIuE')]='';if(!_0x3f031e)return;const _0x53b674=_0x530df0['el'](_0xffa543(0xfe,'EA78'),{'type':_0xffa543(0x11a,'Vqab'),'value':_0x11d241,'style':{'flex':'1','fontSize':_0xffa543(0x1f9,'xRF0'),'padding':_0xffa543(0xd1,'N)Bb'),'border':_0xffa543(0x11b,'N)Bb'),'borderRadius':_0xffa543(0x22c,'rgmF')}}),_0x9946fb=_0x530df0['el']('input',{'type':_0xffa543(0xb4,'rgmF'),'value':_0x31ad80,'style':{'flex':'1','fontSize':_0xffa543(0xb3,'dpnK'),'padding':'6px','border':'1px\x20solid\x20var(--line)','borderRadius':'6px'}}),_0x45e561=_0x530df0['el'](_0xffa543(0x1c5,'LNYY'),{'class':_0xffa543(0x1fa,'3E*F'),'style':{'marginTop':_0xffa543(0x111,'G1W('),'width':_0xffa543(0xa3,')LQ0')},'onclick':()=>{const _0x49ee83=_0xffa543;_0x11d241=_0x53b674[_0x49ee83(0x16e,'zW14')]||_0x279923(),_0x31ad80=_0x9946fb[_0x49ee83(0x22b,'AAY5')]||_0x441b2c(),_0x3f031e=![],_0x174f66(),_0x5174a1(),_0x259a45();}},'적용'),_0x287014=_0x530df0['el']('div',{'style':{'display':_0xffa543(0x1cd,'JIuE'),'gap':_0xffa543(0x119,'b#E@'),'marginBottom':'6px'}},[_0x862876('올해',()=>{_0x11d241=_0x279923(),_0x31ad80=_0x441b2c();}),_0x862876('전체',()=>{const _0x3e41ee=_0xffa543;_0x11d241=_0x3e41ee(0x1c2,'IA*X'),_0x31ad80=_0x441b2c();}),_0x862876(_0xffa543(0xed,'YQg@'),()=>{const _0x41077d=_0xffa543,_0x150f61=new Date();_0x150f61[_0x41077d(0x131,'xVwV')](_0x150f61['getMonth']()-0x3),_0x11d241=_0x150f61[_0x41077d(0x12f,'TTm4')]()['slice'](0x0,0xa),_0x31ad80=_0x441b2c();}),_0x862876('최근6개월',()=>{const _0x47fcfc=_0xffa543,_0x189e44=new Date();_0x189e44[_0x47fcfc(0x127,'u1B4')](_0x189e44['getMonth']()-0x6),_0x11d241=_0x189e44['toISOString']()[_0x47fcfc(0x19f,'SjJ2')](0x0,0xa),_0x31ad80=_0x441b2c();})]);function _0x862876(_0x10cb94,_0x11cbf7){const _0x16a493=_0xffa543;return _0x530df0['el'](_0x16a493(0xbb,'r$g9'),{'class':'btn\x20btn-ghost','style':{'flex':'1','fontSize':_0x16a493(0x1f4,'NM(D'),'padding':_0x16a493(0x114,'QzM*')},'onclick':()=>{const _0x4ab197=_0x16a493;_0x11cbf7(),_0x53b674[_0x4ab197(0x146,'QzM*')]=_0x11d241,_0x9946fb[_0x4ab197(0x1e6,'S4rF')]=_0x31ad80;}},_0x10cb94);}_0x2cbf6a['append'](_0x530df0['el'](_0xffa543(0xad,'EYBB'),{'class':'card','style':{'marginBottom':_0xffa543(0x129,'EA78')}},[_0x287014,_0x530df0['el'](_0xffa543(0x1bd,')LQ0'),{'style':{'display':_0xffa543(0x1b4,'d7D3'),'gap':_0xffa543(0x99,'c]MJ'),'alignItems':'center'}},[_0x530df0['el'](_0xffa543(0xf0,'LNfb'),{'style':{'fontSize':_0xffa543(0x16a,'3E*F'),'color':_0xffa543(0x202,'&2QZ'),'whiteSpace':_0xffa543(0x197,'Lx4k')}},'시작'),_0x53b674,_0x530df0['el'](_0xffa543(0xd6,'QzM*'),{'style':{'fontSize':_0xffa543(0xf1,'qEP9'),'color':_0xffa543(0x206,'YQg@'),'whiteSpace':_0xffa543(0x20b,'AAY5')}},'종료'),_0x9946fb]),_0x45e561]));}function _0x259a45(){const _0x12a2fd=_0x15106c;_0x3ef650[_0x12a2fd(0xe4,'LNYY')]((_0x56775b,_0xfe32be)=>{const _0x29aa59=_0x12a2fd;_0x59b19b[_0xfe32be]['className']='stat-tab'+(_0x56775b===_0x49f2f7?_0x29aa59(0xc7,'eN]!'):'');}),_0x1607ef[_0x12a2fd(0x21f,'$FnY')]='';const _0x3aac14=_0x11d241,_0x4684b5=_0x31ad80,_0x292917='round_date\x20BETWEEN\x20\x27'+_0x3aac14+_0x12a2fd(0xaa,'eN]!')+_0x4684b5+'\x27',_0x27c0b7=_0x12a2fd(0x15b,'4pRF')+_0x292917;if(_0x49f2f7!=='목표'){const _0x1ea234=(DB[_0x12a2fd(0x152,'V#%%')](_0x12a2fd(0xab,'dpnK')+_0x27c0b7)||{})['n']||0x0;if(_0x1ea234===0x0){_0x1607ef['append'](_0x530df0['el'](_0x12a2fd(0x1ed,'3E*F'),{'class':_0x12a2fd(0x1ae,'Vqab')},_0x12a2fd(0xf2,'4pRF')));return;}}if(_0x49f2f7==='종합')_0xf15b44(_0x27c0b7);else{if(_0x49f2f7===_0x12a2fd(0x1f2,'v#gr'))_0x51798d(_0x27c0b7);else{if(_0x49f2f7==='분포')_0x497204(_0x292917);else{if(_0x49f2f7==='비용')_0x337f1f(_0x292917);else _0x22be40();}}}}_0x259a45();function _0xf15b44(_0x5bcd82){const _0x5dfca8=_0x15106c,_0x4ccdd3=DB['get'](_0x5dfca8(0xa7,'5%[g')+_0x5bcd82)||{},_0x492c0b=_0x530df0['el'](_0x5dfca8(0x193,'(250'),{'class':_0x5dfca8(0x1d8,'YQg@')},[_0x530df0['el']('div',{'class':_0x5dfca8(0x1f1,'&2QZ')},_0x5dfca8(0x1a6,'zW14')+(_0x4ccdd3['n']||0x0)+'회)')]),_0x17c3e7=[[_0x5dfca8(0x189,'Zb6['),_0x4ccdd3[_0x5dfca8(0x1a4,'Lx4k')],_0x5dfca8(0x195,'xVwV')],[_0x5dfca8(0x15a,'$FnY'),_0x4ccdd3['gt'],_0x5dfca8(0x1de,'YQg@')],[_0x5dfca8(0x17e,'eN]!'),_0x4ccdd3[_0x5dfca8(0x1eb,'(250')],_0x5dfca8(0x11d,'dpnK')],[_0x5dfca8(0x1df,'5%[g'),_0x4ccdd3['bo'],'birdie_on'],['퍼트',_0x4ccdd3['pt'],_0x5dfca8(0xa6,'xVwV')],['멀리건',_0x4ccdd3['m'],_0x5dfca8(0x133,'d7D3')],[_0x5dfca8(0x148,'r$g9'),_0x4ccdd3['lb'],'lost_ball']];_0x17c3e7[_0x5dfca8(0x134,'TTm4')](([_0x3fc381,_0x4bedb0,_0x403621])=>{const _0x310208=_0x5dfca8,_0x5bffba=_0x4bedb0!=null?Calc[_0x310208(0x10a,'$FnY')](_0x403621,_0x4bedb0):'-',[_0x757e5b,_0x7c51a5]=_0x2e0f3e[_0x5bffba]||_0x2e0f3e['-'];_0x492c0b[_0x310208(0xd7,'dpnK')](_0x530df0['el']('div',{'style':{'display':_0x310208(0x1a3,'vf$Q'),'alignItems':_0x310208(0xd0,'LNfb'),'justifyContent':_0x310208(0x22a,'Zb6['),'padding':_0x310208(0xf9,']nvb'),'borderBottom':'1px\x20solid\x20var(--line)'}},[_0x530df0['el'](_0x310208(0xb1,'Zb6['),{'style':{'fontSize':_0x310208(0x1b9,'xVwV'),'color':'var(--text-2)'}},_0x3fc381),_0x530df0['el'](_0x310208(0x157,'qEP9'),{'style':{'display':_0x310208(0x1ab,'v#gr'),'alignItems':_0x310208(0x140,'4pRF'),'gap':_0x310208(0x138,'dpnK')}},[_0x530df0['el']('div',{'style':{'fontSize':'16px','fontWeight':_0x310208(0x170,'EYBB')}},_0x5e4cfd(_0x4bedb0)),_0x530df0['el'](_0x310208(0x192,']nvb'),{'style':{'background':_0x757e5b,'color':_0x7c51a5,'fontSize':_0x310208(0xdf,'d7D3'),'fontWeight':_0x310208(0x16f,'SjJ2'),'padding':'2px\x2010px','borderRadius':'12px','minWidth':'44px','textAlign':_0x310208(0x1f3,'v#gr')}},_0x5bffba)])]));}),_0x492c0b[_0x5dfca8(0x1aa,'eN]!')][_0x5dfca8(0xae,'SjJ2')][_0x5dfca8(0xa4,'zW14')]=_0x5dfca8(0x1c0,'^tVN'),_0x1607ef[_0x5dfca8(0x112,'rgmF')](_0x492c0b);const _0x35e7dd=_0x530df0['el'](_0x5dfca8(0x1f5,'Lx4k'),{'style':{'display':_0x5dfca8(0x12c,'u1B4'),'gridTemplateColumns':'repeat(3,1fr)','gap':_0x5dfca8(0x99,'c]MJ')}},[_0x1112da(_0x5dfca8(0xe9,'LOd%'),_0x5e4cfd(_0x4ccdd3['bd'])),_0x1112da(_0x5dfca8(0x139,'EA78'),_0x5e4cfd(_0x4ccdd3[_0x5dfca8(0x224,'LOd%')])),_0x1112da(_0x5dfca8(0x1e5,'Lx4k'),_0x5e4cfd(_0x4ccdd3['bg'])),_0x1112da(_0x5dfca8(0xc8,'WK6B'),_0x5e4cfd(_0x4ccdd3['tp'])),_0x1112da('평균\x203퍼트',_0x5e4cfd(_0x4ccdd3[_0x5dfca8(0xc3,'AAY5')])),_0x1112da(_0x5dfca8(0x1ce,'c]MJ'),_0x4ccdd3['min_s']!=null?_0x4ccdd3['min_s']:'-')]);_0x1607ef[_0x5dfca8(0x112,'rgmF')](_0x530df0['el'](_0x5dfca8(0x135,'#fPF'),{'class':_0x5dfca8(0x215,'S4rF')},[_0x530df0['el'](_0x5dfca8(0xb6,'Vqab'),{'class':'sec-title'},_0x5dfca8(0x94,'&2QZ')),_0x35e7dd]));}function _0x51798d(_0x5d1495){const _0x33ac49=_0x15106c,_0x3ef9e1=DB['query'](_0x33ac49(0x1ea,'Zb6[')+_0x5d1495+_0x33ac49(0x175,'IA*X'));if(!_0x3ef9e1[_0x33ac49(0xbe,'eN]!')]){_0x1607ef[_0x33ac49(0x132,'c]MJ')](_0x530df0['el'](_0x33ac49(0x21c,'dpnK'),{'class':_0x33ac49(0x1ae,'Vqab')},'동반자\x20기록이\x20없습니다'));return;}const _0x4d8331=_0x530df0['el'](_0x33ac49(0xaf,'UXZ@'),{'class':_0x33ac49(0xcd,'(250')},[_0x530df0['el']('div',{'class':_0x33ac49(0x10e,'YQg@')},_0x33ac49(0x13f,'r$g9'))]);_0x3ef9e1['forEach'](_0x5aab72=>{const _0x200b7e=_0x33ac49,_0x1afb88=_0x5aab72[_0x200b7e(0x9a,'LOd%')]!=null&&_0x5aab72[_0x200b7e(0x141,'&2QZ')]!=null?_0x5aab72[_0x200b7e(0x207,'$FnY')]-_0x5aab72[_0x200b7e(0x20c,')LQ0')]:null;_0x4d8331[_0x200b7e(0x126,'ue8E')](_0x530df0['el'](_0x200b7e(0x135,'#fPF'),{'style':{'padding':_0x200b7e(0xc4,'TTm4'),'borderBottom':'1px\x20solid\x20var(--line)'}},[_0x530df0['el'](_0x200b7e(0x209,'r$g9'),{'style':{'display':_0x200b7e(0x212,'o&3P'),'justifyContent':_0x200b7e(0x214,'SjJ2'),'alignItems':'center'}},[_0x530df0['el'](_0x200b7e(0x221,'u1B4'),{'style':{'fontSize':_0x200b7e(0x194,'vf$Q'),'fontWeight':_0x200b7e(0x1e2,'v#gr')}},_0x5aab72[_0x200b7e(0x180,'zW14')]+'\x20('+_0x5aab72['n']+'회)'),_0x1afb88!=null?_0x530df0['el']('div',{'style':{'fontSize':_0x200b7e(0x116,'WK6B'),'fontWeight':_0x200b7e(0x19a,'#fPF'),'color':_0x1afb88<0x0?'#0a8f4d':'#d63333'}},_0x1afb88<0x0?'평균\x20'+_0x5e4cfd(-_0x1afb88)+_0x200b7e(0x1b5,'xRF0'):_0x200b7e(0x1ca,'IA*X')+_0x5e4cfd(_0x1afb88)+_0x200b7e(0xe3,'r$g9')):null]),_0x530df0['el']('div',{'style':{'fontSize':_0x200b7e(0x144,'TTm4'),'color':_0x200b7e(0x1b0,'eN]!'),'marginTop':_0x200b7e(0x230,'#fPF')}},_0x200b7e(0x21d,'r$g9')+_0x5e4cfd(_0x5aab72[_0x200b7e(0x18b,'5%[g')])+_0x200b7e(0x1c1,'G1W(')+_0x5e4cfd(_0x5aab72['avg_player'])+_0x200b7e(0x10b,'WK6B')+(_0x5aab72[_0x200b7e(0x1b2,'rgmF')]!=null?_0x5aab72[_0x200b7e(0xd4,'Zb6[')]:'-'))]));}),_0x4d8331[_0x33ac49(0x176,'L[ZR')][_0x33ac49(0x208,'v#gr')]['borderBottom']='none',_0x1607ef[_0x33ac49(0x1ee,'L[ZR')](_0x4d8331);}function _0x497204(_0x284004){const _0x267c44=_0x15106c,_0x50428f=DB[_0x267c44(0x17a,'#fPF')](_0x267c44(0x172,'$FnY')+_0x284004);if(!_0x50428f||!_0x50428f['total']){_0x1607ef[_0x267c44(0x1b7,'UXZ@')](_0x530df0['el'](_0x267c44(0x92,'LNfb'),{'class':_0x267c44(0x1f6,'JIuE')},_0x267c44(0x107,'xVwV')));return;}const _0x2cee1f=[[_0x267c44(0x11f,'SjJ2'),_0x50428f[_0x267c44(0x15d,'eN]!')],_0x267c44(0xe8,'u1B4'),_0x267c44(0x21b,'V#%%')],[_0x267c44(0x105,'eN]!'),_0x50428f[_0x267c44(0xbf,'v#gr')],_0x267c44(0x185,'JIuE'),'#064'],['0\x20파',_0x50428f[_0x267c44(0x204,'LOd%')],'#eef1f4',_0x267c44(0x150,'N)Bb')],[_0x267c44(0xa8,'N)Bb'),_0x50428f[_0x267c44(0x12b,'I9IV')],_0x267c44(0xd3,'G1W('),'#333'],[_0x267c44(0xd5,'vf$Q'),_0x50428f[_0x267c44(0xda,'LNYY')],_0x267c44(0x1ef,'S4rF'),_0x267c44(0x1b3,'LNYY')],['+3\x20트리플',_0x50428f[_0x267c44(0x198,'5%[g')],'#FF5252',_0x267c44(0x9e,'d7D3')],['+4',_0x50428f[_0x267c44(0x142,'L[ZR')],'#b71c1c','#fff'],[_0x267c44(0x1a7,'^tVN'),_0x50428f[_0x267c44(0xe1,'LOd%')],_0x267c44(0x226,'vf$Q'),_0x267c44(0x166,'ue8E')]],_0x15d191=_0x530df0['el'](_0x267c44(0x1cb,'TTm4'),{'class':_0x267c44(0x191,'rgmF')},[_0x530df0['el'](_0x267c44(0x158,'^tVN'),{'class':_0x267c44(0x102,'QzM*')},'홀별\x20스코어\x20분포\x20(PAR\x20대비)')]);_0x15d191['append'](_0x2455cc(_0x2cee1f,_0x50428f[_0x267c44(0x199,'LNYY')])),_0x1607ef['append'](_0x15d191);const _0x2d9b9b=DB[_0x267c44(0x14d,'UXZ@')](_0x267c44(0x1e3,'vf$Q')+_0x284004);if(_0x2d9b9b&&_0x2d9b9b[_0x267c44(0x18a,'IA*X')]){const _0x29eeb7=[[_0x267c44(0x1cc,'IA*X'),_0x2d9b9b['p0'],_0x267c44(0x98,'xRF0'),_0x267c44(0x218,'WK6B')],['1\x20퍼트',_0x2d9b9b['p1'],_0x267c44(0x18e,'Zb6['),_0x267c44(0xd2,'#fPF')],[_0x267c44(0x149,'u1B4'),_0x2d9b9b['p3'],_0x267c44(0x188,'qEP9'),_0x267c44(0x1cf,'5%[g')],[_0x267c44(0xc0,'xVwV'),_0x2d9b9b[_0x267c44(0x1e1,'^tVN')],_0x267c44(0x183,'Vqab'),_0x267c44(0x16d,'SjJ2')]],_0x76c46b=_0x530df0['el']('div',{'class':_0x267c44(0x1d8,'YQg@')},[_0x530df0['el'](_0x267c44(0x193,'(250'),{'class':_0x267c44(0x95,'LNfb')},_0x267c44(0x20e,'ue8E'))]);_0x76c46b[_0x267c44(0x171,'&2QZ')](_0x2455cc(_0x29eeb7,_0x2d9b9b[_0x267c44(0x1dd,'eN]!')])),_0x1607ef[_0x267c44(0x12d,'u1B4')](_0x76c46b);}function _0x2455cc(_0x308eec,_0x4ceed4){const _0x2f4ac7=_0x267c44,_0x3cdb13=_0x9b19e7=>_0x4ceed4>0x0?(Math['round'](_0x9b19e7/_0x4ceed4*0x3e8)/0xa)[_0x2f4ac7(0x109,'&2QZ')](0x1)+'%':'0%',_0x5c2197=(_0x32ac00,_0x572d1a)=>({'padding':_0x2f4ac7(0xd8,'xRF0'),'textAlign':_0x2f4ac7(0xe7,'rgmF'),'fontSize':_0x2f4ac7(0x14b,'b#E@'),'fontWeight':_0x2f4ac7(0x1e8,'xVwV'),'background':_0x32ac00,'color':_0x572d1a,'whiteSpace':_0x2f4ac7(0x12a,'b#E@')}),_0x2c4425={'padding':'6px\x203px','textAlign':_0x2f4ac7(0xdb,'AAY5'),'fontSize':'12px','borderBottom':_0x2f4ac7(0xe5,'4pRF')},_0x346fc7={'padding':_0x2f4ac7(0x11c,'YQg@'),'fontSize':_0x2f4ac7(0x108,'AAY5'),'fontWeight':_0x2f4ac7(0x1a9,'S4rF'),'color':_0x2f4ac7(0x178,'WK6B'),'borderBottom':_0x2f4ac7(0x17d,'YQg@'),'whiteSpace':'nowrap'},_0x14c5ac=_0x530df0['el'](_0x2f4ac7(0xbd,'#fPF'),null,[_0x530df0['el']('tr',null,[_0x530df0['el']('th',{'style':{'padding':_0x2f4ac7(0x18d,'G1W('),'background':_0x2f4ac7(0x11e,'xVwV')}},''),..._0x308eec[_0x2f4ac7(0x1d4,'rgmF')](([_0x109dcc,,_0x4f48c5,_0x32fe91])=>_0x530df0['el']('th',{'style':_0x5c2197(_0x4f48c5,_0x32fe91)},_0x109dcc))])]),_0x391683=_0x530df0['el']('tbody',null,[_0x530df0['el']('tr',null,[_0x530df0['el']('td',{'style':_0x346fc7},_0x2f4ac7(0x181,'d7D3')),..._0x308eec[_0x2f4ac7(0xee,'zW14')](([,_0x3ee3a8])=>_0x530df0['el']('td',{'style':_0x2c4425},String(_0x3ee3a8??0x0)))]),_0x530df0['el']('tr',null,[_0x530df0['el']('td',{'style':{..._0x346fc7,'borderBottom':_0x2f4ac7(0xef,'AAY5')}},_0x2f4ac7(0xa9,'L[ZR')),..._0x308eec['map'](([,_0x5d0a14])=>_0x530df0['el']('td',{'style':{..._0x2c4425,'borderBottom':_0x2f4ac7(0x1d7,'JIuE'),'fontWeight':'600'}},_0x3cdb13(_0x5d0a14??0x0)))])]);return _0x530df0['el'](_0x2f4ac7(0x1a5,'xVwV'),{'style':{'overflowX':'auto'}},[_0x530df0['el'](_0x2f4ac7(0x156,'$FnY'),{'style':{'width':_0x2f4ac7(0x179,'EA78'),'borderCollapse':_0x2f4ac7(0x1d1,'eN]!')}},[_0x14c5ac,_0x391683])]);}}function _0x337f1f(_0x5490ad){const _0x52465d=_0x15106c,_0x51e84d=DB['get'](_0x52465d(0x220,'&2QZ')+_0x5490ad)||{},_0x28aa27=_0x1d79b2=>_0x1d79b2!=null?Math[_0x52465d(0x22d,'zW14')](_0x1d79b2*0xa)/0xa+'만':'-',_0x316283=_0x530df0['el']('div',{'class':_0x52465d(0x21e,'zW14')},[_0x530df0['el'](_0x52465d(0x1c3,'LNYY'),{'class':_0x52465d(0xc2,'LOd%')},_0x52465d(0x15f,'$FnY')+(_0x51e84d['n']||0x0)+'회)')]),_0x5926e8=[[_0x52465d(0x203,'zW14'),_0x51e84d[_0x52465d(0x164,'rgmF')],_0x51e84d[_0x52465d(0x1e0,'v#gr')]],[_0x52465d(0x13b,']nvb'),_0x51e84d[_0x52465d(0xdc,'zW14')],_0x51e84d[_0x52465d(0x12e,'JIuE')]],[_0x52465d(0xb0,'4pRF'),_0x51e84d[_0x52465d(0x201,'^tVN')],_0x51e84d['avg_cad']],['기타',_0x51e84d[_0x52465d(0x20a,')LQ0')],_0x51e84d[_0x52465d(0x17c,'Lx4k')]],[_0x52465d(0xf6,'Vqab'),_0x51e84d[_0x52465d(0x91,'rgmF')],_0x51e84d[_0x52465d(0x13d,'Lx4k')]]];_0x5926e8[_0x52465d(0x19b,'AAY5')](([_0x508fdf,_0x2d2686,_0xcc0401])=>{const _0x3b21d6=_0x52465d;_0x316283['append'](_0x530df0['el'](_0x3b21d6(0xb1,'Zb6['),{'style':{'display':_0x3b21d6(0x174,'rgmF'),'justifyContent':_0x3b21d6(0x123,'V#%%'),'padding':_0x3b21d6(0x17f,'#fPF'),'borderBottom':_0x3b21d6(0x17b,'3E*F'),'fontSize':_0x3b21d6(0x1da,']nvb')}},[_0x530df0['el'](_0x3b21d6(0xfb,'AAY5'),{'style':{'color':_0x3b21d6(0x128,'AAY5')}},_0x508fdf),_0x530df0['el']('div',{'style':{'display':'flex','gap':_0x3b21d6(0x1fd,'zW14')}},[_0x530df0['el']('div',{'style':{'color':_0x3b21d6(0x1ad,'rgmF'),'fontSize':_0x3b21d6(0x22e,']nvb')}},'합계\x20'+_0x28aa27(_0x2d2686)),_0x530df0['el'](_0x3b21d6(0x1f0,'5%[g'),{'style':{'fontWeight':_0x3b21d6(0x9f,'o&3P')}},_0x3b21d6(0x13c,'Zb6[')+_0x28aa27(_0xcc0401))])]));}),_0x316283[_0x52465d(0x1c7,'I9IV')](_0x530df0['el'](_0x52465d(0x18f,'N)Bb'),{'style':{'display':_0x52465d(0xc6,'zW14'),'justifyContent':_0x52465d(0x1fe,'EYBB'),'padding':'11px\x202px','borderTop':_0x52465d(0x177,'qEP9'),'marginTop':_0x52465d(0x1af,'V#%%')}},[_0x530df0['el'](_0x52465d(0x16c,'WK6B'),{'style':{'fontWeight':_0x52465d(0x19d,'dpnK'),'fontSize':'15px'}},_0x52465d(0x15c,'(250')),_0x530df0['el'](_0x52465d(0xb1,'Zb6['),{'style':{'display':_0x52465d(0x10c,'N)Bb'),'gap':_0x52465d(0xc9,'LNYY')}},[_0x530df0['el'](_0x52465d(0x137,'xRF0'),{'style':{'color':_0x52465d(0xfa,'$FnY'),'fontSize':_0x52465d(0x20f,'&2QZ')}},_0x52465d(0x219,'G1W(')+_0x28aa27(_0x51e84d['grand_total'])),_0x530df0['el'](_0x52465d(0x121,'JIuE'),{'style':{'fontWeight':_0x52465d(0x20d,'^tVN'),'fontSize':'15px','color':_0x52465d(0x103,'b#E@')}},'평균\x20'+_0x28aa27(_0x51e84d[_0x52465d(0x143,'#fPF')]))])])),_0x1607ef[_0x52465d(0xf5,'3E*F')](_0x316283);}function _0x22be40(){const _0xf222ef=_0x15106c,_0x55afaf=new Date()[_0xf222ef(0x1bc,'v#gr')](),_0x56d32a=DB[_0xf222ef(0x186,'vf$Q')](_0x55afaf),_0x3a4ec7=Calc['YEARLY_GOAL'][_0x55afaf]||Calc['YEARLY_GOAL'][0x7ea],_0x5997c6=_0x56d32a||Object[_0xf222ef(0x1b1,'NM(D')]({'year':_0x55afaf},_0x3a4ec7),_0x33ab45=DB['get']('SELECT\x20AVG(total_score)\x20avg_s,\x20AVG(good_tee_count)\x20gt,\x20AVG(lost_ball_total)\x20lb,\x0a\x20\x20\x20\x20\x20\x20\x20\x20AVG(birdie_on_total)\x20bo,\x20AVG(birdie_count)\x20bd,\x20AVG(putts_total)\x20pt,\x0a\x20\x20\x20\x20\x20\x20\x20\x20AVG(three_putt_count)\x20tputt,\x20AVG(triple_count)\x20tp,\x20COUNT(*)\x20n\x0a\x20\x20\x20\x20\x20\x20\x20\x20FROM\x20rounds\x20WHERE\x20total_score>0\x20AND\x20strftime(\x27%Y\x27,round_date)=?',[String(_0x55afaf)])||{},_0x18993b=_0x530df0['el']('div',{'class':_0xf222ef(0x1f8,'LNYY')},[_0x530df0['el'](_0xf222ef(0x1a0,'rgmF'),{'class':'sec-title'},_0x55afaf+_0xf222ef(0xc1,'dpnK')+(_0x33ab45['n']||0x0)+'회)')]),_0x64602f=(_0x14f7c3,_0x524455,_0x1bcb8e,_0x532ad9)=>_0x530df0['el'](_0xf222ef(0x21a,'SjJ2'),{'style':{'display':'flex','justifyContent':_0xf222ef(0x1e4,')LQ0'),'alignItems':_0xf222ef(0x161,'zW14'),'padding':_0xf222ef(0x17f,'#fPF'),'borderBottom':_0xf222ef(0x120,'NM(D')}},[_0x530df0['el'](_0xf222ef(0x1f5,'Lx4k'),{'style':{'fontSize':'14px','color':_0xf222ef(0x165,'S4rF')}},_0x14f7c3),_0x530df0['el'](_0xf222ef(0x192,']nvb'),{'style':{'display':'flex','gap':_0xf222ef(0x1a1,'G1W('),'alignItems':_0xf222ef(0xa0,'UXZ@')}},[_0x530df0['el']('div',{'style':{'fontSize':'13px','color':_0xf222ef(0xac,'EA78')}},'목표\x20'+_0x524455),_0x530df0['el'](_0xf222ef(0xb7,'d7D3'),{'style':{'fontSize':_0xf222ef(0xb2,')LQ0'),'fontWeight':_0xf222ef(0x184,'NM(D')}},_0x5e4cfd(_0x1bcb8e)),_0x530df0['el'](_0xf222ef(0x1be,'S4rF'),{'style':{'fontSize':_0xf222ef(0x117,'JIuE'),'color':_0x532ad9?_0xf222ef(0xf8,'5%[g'):_0xf222ef(0x1d3,'b#E@'),'fontWeight':'700','width':'18px','textAlign':_0xf222ef(0x182,'IA*X')}},_0x1bcb8e==null?'·':_0x532ad9?'✓':'✕')])]),_0x3dc674=[[_0xf222ef(0x190,'qEP9'),_0x5997c6['avg_score'],_0x33ab45['avg_s'],_0x33ab45['avg_s']!=null&&_0x33ab45['avg_s']<=_0x5997c6[_0xf222ef(0x113,'rgmF')]],['굿티샷(이상)',_0x5997c6[_0xf222ef(0x1ff,'vf$Q')],_0x33ab45['gt'],_0x33ab45['gt']!=null&&_0x33ab45['gt']>=_0x5997c6[_0xf222ef(0x1ec,'3E*F')]],[_0xf222ef(0xb8,'#fPF'),_0x5997c6['lost_ball_max'],_0x33ab45['lb'],_0x33ab45['lb']!=null&&_0x33ab45['lb']<=_0x5997c6[_0xf222ef(0x196,'b#E@')]],['버디온(이상)',_0x5997c6[_0xf222ef(0xcb,'4pRF')],_0x33ab45['bo'],_0x33ab45['bo']!=null&&_0x33ab45['bo']>=_0x5997c6['birdie_on_min']],[_0xf222ef(0x10f,'&2QZ'),_0x5997c6[_0xf222ef(0x1ac,'Vqab')],_0x33ab45['bd'],_0x33ab45['bd']!=null&&_0x33ab45['bd']>=_0x5997c6[_0xf222ef(0x1bb,'V#%%')]],[_0xf222ef(0x229,'Zb6['),_0x5997c6['putts_max'],_0x33ab45['pt'],_0x33ab45['pt']!=null&&_0x33ab45['pt']<=_0x5997c6['putts_max']],[_0xf222ef(0xfd,']nvb'),_0x5997c6['three_putt_max'],_0x33ab45['tputt'],_0x33ab45[_0xf222ef(0x145,'#fPF')]!=null&&_0x33ab45[_0xf222ef(0x223,'v#gr')]<=_0x5997c6[_0xf222ef(0x18c,'o&3P')]],[_0xf222ef(0xd9,'u1B4'),_0x5997c6[_0xf222ef(0xdd,'EA78')],_0x33ab45['tp'],_0x33ab45['tp']!=null&&_0x33ab45['tp']<=_0x5997c6[_0xf222ef(0xa5,'eN]!')]]];_0x3dc674[_0xf222ef(0x1f7,'L[ZR')](_0x10ee59=>_0x18993b[_0xf222ef(0x1dc,'qEP9')](_0x64602f(_0x10ee59[0x0],_0x10ee59[0x1],_0x10ee59[0x2],_0x10ee59[0x3]))),_0x18993b['lastChild'][_0xf222ef(0xae,'SjJ2')][_0xf222ef(0x227,'IA*X')]=_0xf222ef(0x1c9,'ue8E'),_0x1607ef['append'](_0x18993b);const _0x7fca9d=_0x530df0['el'](_0xf222ef(0x1ed,'3E*F'));let _0x3aa2ed=![];const _0x5d812e=_0x530df0['el'](_0xf222ef(0x1d0,'eN]!'),{'class':_0xf222ef(0xe6,'I9IV'),'onclick':()=>{_0x3aa2ed=!_0x3aa2ed,_0x51da0e();}},_0xf222ef(0x9b,'LOd%'));_0x1607ef['append'](_0x5d812e,_0x7fca9d);function _0x51da0e(){const _0x3cabb8=_0xf222ef;_0x7fca9d[_0x3cabb8(0xc5,'4pRF')]='';if(!_0x3aa2ed)return;const _0x3ba0fa={},_0x3703df=[[_0x3cabb8(0x154,'d7D3'),_0x3cabb8(0x14a,'3E*F')],[_0x3cabb8(0x14f,')LQ0'),_0x3cabb8(0x1b8,'LNYY')],[_0x3cabb8(0x1b6,'EA78'),_0x3cabb8(0x1ba,'G1W(')],[_0x3cabb8(0x14c,'Vqab'),_0x3cabb8(0x16b,'&2QZ')],['birdie_min',_0x3cabb8(0x106,'d7D3')],[_0x3cabb8(0x169,'UXZ@'),_0x3cabb8(0x1e7,'xVwV')],['three_putt_max',_0x3cabb8(0x115,'EYBB')],['triple_max','트리플+(이하)']],_0x4c6f91=_0x530df0['el']('div',{'class':_0x3cabb8(0x1d9,'5%[g')});_0x3703df['forEach'](([_0x21e8f9,_0x1c5377])=>{const _0x203a32=_0x3cabb8,_0x361f8a=_0x530df0['el'](_0x203a32(0x118,'^tVN'),{'type':'number','inputmode':_0x203a32(0xcc,'4pRF'),'value':_0x5997c6[_0x21e8f9]!=null?_0x5997c6[_0x21e8f9]:''});_0x3ba0fa[_0x21e8f9]=_0x361f8a,_0x4c6f91[_0x203a32(0x1dc,'qEP9')](_0x530df0['el'](_0x203a32(0xaf,'UXZ@'),{'class':'field'},[_0x530df0['el'](_0x203a32(0x1d5,'Vqab'),null,_0x1c5377),_0x361f8a]));});const _0x3773d1=_0x530df0['el']('button',{'class':'btn\x20btn-primary','onclick':()=>{const _0x829fd0=_0x3cabb8;DB[_0x829fd0(0x205,'I9IV')]({'year':_0x55afaf,'avg_score':+_0x3ba0fa['avg_score'][_0x829fd0(0x1a8,'EYBB')]||null,'good_tee_min':+_0x3ba0fa[_0x829fd0(0x100,'L[ZR')][_0x829fd0(0x101,'rgmF')]||null,'lost_ball_max':+_0x3ba0fa[_0x829fd0(0x1c6,'c]MJ')][_0x829fd0(0x122,'WK6B')]||null,'birdie_on_min':+_0x3ba0fa[_0x829fd0(0x1e9,'c]MJ')][_0x829fd0(0x130,'&2QZ')]||null,'birdie_min':+_0x3ba0fa[_0x829fd0(0x9c,'LOd%')][_0x829fd0(0x14e,'V#%%')]||null,'putts_max':+_0x3ba0fa[_0x829fd0(0x210,'V#%%')]['value']||null,'three_putt_max':+_0x3ba0fa[_0x829fd0(0x19e,'Lx4k')][_0x829fd0(0x16e,'zW14')]||null,'triple_max':+_0x3ba0fa[_0x829fd0(0x200,'JIuE')][_0x829fd0(0x1a8,'EYBB')]||null}),_0x530df0['toast'](_0x829fd0(0x13e,'QzM*')),_0x3aa2ed=![],_0x259a45();}},'저장');_0x7fca9d[_0x3cabb8(0x1d6,'b#E@')](_0x530df0['el']('div',{'class':_0x3cabb8(0x216,'LNfb')},[_0x530df0['el'](_0x3cabb8(0x222,'vf$Q'),{'class':'sec-title'},_0x55afaf+_0x3cabb8(0x228,'NM(D')),_0x4c6f91,_0x3773d1]));}}function _0x1112da(_0x2d3bf5,_0x29b94c){const _0x2e0508=_0x15106c;return _0x530df0['el']('div',{'style':{'display':_0x2e0508(0xec,'AAY5'),'flexDirection':_0x2e0508(0x187,'&2QZ'),'alignItems':_0x2e0508(0x163,'qEP9'),'padding':'8px\x204px','background':_0x2e0508(0xa2,'G1W('),'borderRadius':'8px'}},[_0x530df0['el']('div',{'style':{'fontSize':_0x2e0508(0x1c4,'xVwV'),'color':_0x2e0508(0xa1,'3E*F')}},_0x2d3bf5),_0x530df0['el'](_0x2e0508(0x121,'JIuE'),{'style':{'fontSize':'16px','fontWeight':_0x2e0508(0x110,'LNfb'),'color':_0x2e0508(0xca,'S4rF')}},String(_0x29b94c))]);}};}()));
+/* ============================================================
+ * screen_stats.js - 통계/목표
+ *   종합 · 동반자 · 분포 · 비용 · 목표  (기간 필터 공통 적용)
+ * ============================================================ */
+(function () {
+  "use strict";
+  const Screens = (window.Screens = window.Screens || {});
+  const GRADE_BG = { "잘함": ["#00E676", "#064"], "보통": ["#eef1f4", "#444"], "아쉬움": ["#BA68C8", "#fff"], "노력": ["#FF5252", "#fff"], "-": ["#f1f2f4", "#999"] };
+  const r1 = (v) => v == null ? "-" : String(Math.round(v * 10) / 10);
+  const todayStr = () => { const d = new Date(); const p = (n) => String(n).padStart(2, "0"); return `${d.getFullYear()}-${p(d.getMonth()+1)}-${p(d.getDate())}`; };
+  const yearStart = () => `${new Date().getFullYear()}-01-01`;
+
+  Screens.stats = function (container) {
+    const A = window.App;
+    A.setAppbar("통계 분석", "");
+
+    let tab = "종합";
+    let dateFrom = yearStart();
+    let dateTo   = todayStr();
+    let showDatePicker = false;
+
+    const TABS = ["종합", "동반자", "분포", "비용", "목표"];
+
+    // ── 탭 네비 ────────────────────────────────────────────────
+    const tabEls = TABS.map((t) => {
+      const el = A.el("div", { class: "stat-tab" + (t === tab ? " stat-tab-on" : ""), onclick: () => { tab = t; paint(); } }, t);
+      return el;
+    });
+    const navBar = A.el("div", { class: "stat-tabbar" }, tabEls);
+
+    // ── 기간 필터 바 (탭과 동일 높이) ────────────────────────
+    const periodLbl = A.el("span", { class: "stat-period-lbl" });
+    const periodBtn = A.el("button", { class: "stat-period-btn", onclick: () => { showDatePicker = !showDatePicker; renderDatePicker(); } }, "설정");
+    const filterBar = A.el("div", { class: "stat-filter-bar" }, [periodLbl, periodBtn]);
+    const pickerWrap = A.el("div");
+
+    const content = A.el("div");
+    container.append(navBar, filterBar, pickerWrap, content);
+
+    function updatePeriodLabel() {
+      periodLbl.textContent = `📅 ${dateFrom}  ~  ${dateTo}`;
+    }
+    updatePeriodLabel();
+
+    function renderDatePicker() {
+      pickerWrap.innerHTML = "";
+      if (!showDatePicker) return;
+      const fromInp = A.el("input", { type: "date", value: dateFrom, style: { flex: "1", fontSize: "13px", padding: "6px", border: "1px solid var(--line)", borderRadius: "6px" } });
+      const toInp   = A.el("input", { type: "date", value: dateTo,   style: { flex: "1", fontSize: "13px", padding: "6px", border: "1px solid var(--line)", borderRadius: "6px" } });
+      const applyBtn = A.el("button", { class: "btn btn-primary", style: { marginTop: "8px", width: "100%" },
+        onclick: () => {
+          dateFrom = fromInp.value || yearStart();
+          dateTo   = toInp.value   || todayStr();
+          showDatePicker = false;
+          updatePeriodLabel();
+          renderDatePicker();
+          paint();
+        } }, "적용");
+      const shortcuts = A.el("div", { style: { display: "flex", gap: "6px", marginBottom: "6px" } }, [
+        shortBtn("올해", () => { dateFrom = yearStart(); dateTo = todayStr(); }),
+        shortBtn("전체", () => { dateFrom = "2000-01-01"; dateTo = todayStr(); }),
+        shortBtn("최근3개월", () => { const d = new Date(); d.setMonth(d.getMonth()-3); dateFrom = d.toISOString().slice(0,10); dateTo = todayStr(); }),
+        shortBtn("최근6개월", () => { const d = new Date(); d.setMonth(d.getMonth()-6); dateFrom = d.toISOString().slice(0,10); dateTo = todayStr(); }),
+      ]);
+      function shortBtn(label, fn) {
+        return A.el("button", { class: "btn btn-ghost", style: { flex: "1", fontSize: "11px", padding: "4px 2px" },
+          onclick: () => { fn(); fromInp.value = dateFrom; toInp.value = dateTo; } }, label);
+      }
+      pickerWrap.append(A.el("div", { class: "card", style: { marginBottom: "8px" } }, [
+        shortcuts,
+        A.el("div", { style: { display: "flex", gap: "8px", alignItems: "center" } }, [
+          A.el("span", { style: { fontSize: "12px", color: "var(--text-2)", whiteSpace: "nowrap" } }, "시작"),
+          fromInp,
+          A.el("span", { style: { fontSize: "12px", color: "var(--text-2)", whiteSpace: "nowrap" } }, "종료"),
+          toInp,
+        ]),
+        applyBtn,
+      ]));
+    }
+
+    function paint() {
+      // 탭 활성화 표시
+      TABS.forEach((t, i) => {
+        tabEls[i].className = "stat-tab" + (t === tab ? " stat-tab-on" : "");
+      });
+      content.innerHTML = "";
+      const hasDf = dateFrom, hasDt = dateTo;
+      const whereDate = `round_date BETWEEN '${hasDf}' AND '${hasDt}'`;
+      const whereScore = `total_score > 0 AND ${whereDate}`;
+
+      if (tab !== "목표") {
+        const n = (DB.get(`SELECT COUNT(*) AS n FROM rounds WHERE ${whereScore}`) || {}).n || 0;
+        if (n === 0) { content.append(A.el("div", { class: "empty" }, "해당 기간에 라운드가 없어요")); return; }
+      }
+
+      if (tab === "종합")    renderSummary(whereScore);
+      else if (tab === "동반자") renderPlayers(whereScore);
+      else if (tab === "분포")  renderDist(whereDate);
+      else if (tab === "비용")  renderCost(whereDate);
+      else                   renderGoal();
+    }
+    paint();
+
+    // ===== 종합 =====
+    function renderSummary(where) {
+      const s = DB.get(`SELECT COUNT(*) AS n, AVG(total_score) AS avg_s, MIN(total_score) AS min_s,
+        AVG(good_tee_count) AS gt, AVG(tee_out_count) AS to_, AVG(birdie_on_total) AS bo,
+        AVG(putts_total) AS pt, AVG(mulligan_total) AS m, AVG(lost_ball_total) AS lb,
+        AVG(birdie_count) AS bd, AVG(par_count) AS par_c, AVG(bogey_count) AS bg,
+        AVG(triple_count) AS tp, AVG(three_putt_count) AS tputt
+        FROM rounds WHERE ${where}`) || {};
+
+      const card = A.el("div", { class: "card" }, [A.el("div", { class: "sec-title" }, `종합 평균 (${s.n || 0}회)`)]);
+      const rows = [
+        ["평균 스코어", s.avg_s, "score"], ["굿티샷", s.gt, "good_tee"], ["티샷아웃", s.to_, "tee_out"],
+        ["버디온", s.bo, "birdie_on"], ["퍼트", s.pt, "putts"], ["멀리건", s.m, "mulligan"], ["로스트볼", s.lb, "lost_ball"],
+      ];
+      rows.forEach(([label, val, field]) => {
+        const grade = val != null ? Calc.gradeFor(field, val) : "-";
+        const [bg, fg] = GRADE_BG[grade] || GRADE_BG["-"];
+        card.append(A.el("div", { style: { display: "flex", alignItems: "center", justifyContent: "space-between", padding: "9px 2px", borderBottom: "1px solid var(--line)" } }, [
+          A.el("div", { style: { fontSize: "14px", color: "var(--text-2)" } }, label),
+          A.el("div", { style: { display: "flex", alignItems: "center", gap: "8px" } }, [
+            A.el("div", { style: { fontSize: "16px", fontWeight: "600" } }, r1(val)),
+            A.el("div", { style: { background: bg, color: fg, fontSize: "12px", fontWeight: "600", padding: "2px 10px", borderRadius: "12px", minWidth: "44px", textAlign: "center" } }, grade),
+          ]),
+        ]));
+      });
+      card.lastChild.style.borderBottom = "none";
+      content.append(card);
+
+      const chips = A.el("div", { style: { display: "grid", gridTemplateColumns: "repeat(3,1fr)", gap: "8px" } }, [
+        miniChip("평균 버디", r1(s.bd)), miniChip("평균 파", r1(s.par_c)), miniChip("평균 보기", r1(s.bg)),
+        miniChip("평균 트리플+", r1(s.tp)), miniChip("평균 3퍼트", r1(s.tputt)), miniChip("Best", s.min_s != null ? s.min_s : "-"),
+      ]);
+      content.append(A.el("div", { class: "card" }, [A.el("div", { class: "sec-title" }, "라운드당 평균"), chips]));
+    }
+
+    // ===== 동반자 =====
+    function renderPlayers(where) {
+      const ps = DB.query(`
+        SELECT p.name, COUNT(*) AS n, AVG(r.total_score) AS avg_my,
+               AVG(p.score) AS avg_player, MIN(r.total_score) AS best_my
+        FROM players p JOIN rounds r ON r.id=p.round_id
+        WHERE r.${where} AND p.name IS NOT NULL AND p.name!=''
+        GROUP BY p.name HAVING COUNT(*)>=1 ORDER BY n DESC, avg_my ASC`);
+      if (!ps.length) { content.append(A.el("div", { class: "empty" }, "동반자 기록이 없습니다")); return; }
+      const card = A.el("div", { class: "card" }, [A.el("div", { class: "sec-title" }, "동반자별 통계")]);
+      ps.forEach((p) => {
+        const diff = (p.avg_my != null && p.avg_player != null) ? p.avg_my - p.avg_player : null;
+        card.append(A.el("div", { style: { padding: "10px 2px", borderBottom: "1px solid var(--line)" } }, [
+          A.el("div", { style: { display: "flex", justifyContent: "space-between", alignItems: "center" } }, [
+            A.el("div", { style: { fontSize: "15px", fontWeight: "500" } }, `${p.name} (${p.n}회)`),
+            diff != null ? A.el("div", { style: { fontSize: "12px", fontWeight: "600", color: diff < 0 ? "#0a8f4d" : "#d63333" } },
+              diff < 0 ? `평균 ${r1(-diff)} 앞섬` : `평균 ${r1(diff)} 뒤짐`) : null,
+          ]),
+          A.el("div", { style: { fontSize: "12px", color: "var(--text-2)", marginTop: "2px" } },
+            `내 평균 ${r1(p.avg_my)} · 상대 ${r1(p.avg_player)} · 내 Best ${p.best_my != null ? p.best_my : "-"}`),
+        ]));
+      });
+      card.lastChild.style.borderBottom = "none";
+      content.append(card);
+    }
+
+    // ===== 분포 =====
+    function renderDist(where) {
+      // ── 스코어 분포 (전체 홀 집계) ──────────────────────────
+      const sc = DB.get(`
+        SELECT
+          SUM(CASE WHEN h.score - h.par <= -2 THEN 1 ELSE 0 END) AS eagle_plus,
+          SUM(CASE WHEN h.score - h.par = -1  THEN 1 ELSE 0 END) AS birdie,
+          SUM(CASE WHEN h.score - h.par = 0   THEN 1 ELSE 0 END) AS par_cnt,
+          SUM(CASE WHEN h.score - h.par = 1   THEN 1 ELSE 0 END) AS bogey,
+          SUM(CASE WHEN h.score - h.par = 2   THEN 1 ELSE 0 END) AS double_b,
+          SUM(CASE WHEN h.score - h.par = 3   THEN 1 ELSE 0 END) AS triple_b,
+          SUM(CASE WHEN h.score - h.par = 4   THEN 1 ELSE 0 END) AS quad,
+          SUM(CASE WHEN h.score - h.par >= 5  THEN 1 ELSE 0 END) AS five_plus,
+          COUNT(*) AS total
+        FROM holes h JOIN rounds r ON r.id=h.round_id
+        WHERE h.score IS NOT NULL AND h.par IS NOT NULL AND r.${where}`);
+
+      if (!sc || !sc.total) { content.append(A.el("div", { class: "empty" }, "홀 데이터가 없습니다")); return; }
+
+      const scoreCols = [
+        ["-2 이글",   sc.eagle_plus, "#1565C0", "#fff"],
+        ["-1 버디",   sc.birdie,     "#00E676", "#064"],
+        ["0 파",      sc.par_cnt,    "#eef1f4", "#333"],
+        ["+1 보기",   sc.bogey,      "#FFF59D", "#333"],
+        ["+2 더블",   sc.double_b,   "#BA68C8", "#fff"],
+        ["+3 트리플", sc.triple_b,   "#FF5252", "#fff"],
+        ["+4",        sc.quad,       "#b71c1c", "#fff"],
+        ["+5이상",    sc.five_plus,  "#4a0000", "#fff"],
+      ];
+      const scoreCard = A.el("div", { class: "card" }, [A.el("div", { class: "sec-title" }, "홀별 스코어 분포 (PAR 대비)")]);
+      scoreCard.append(distTable(scoreCols, sc.total));
+      content.append(scoreCard);
+
+      // ── 퍼트 분포 (전체 홀 집계) ────────────────────────────
+      const pt = DB.get(`
+        SELECT
+          SUM(CASE WHEN h.putts = 0  THEN 1 ELSE 0 END) AS p0,
+          SUM(CASE WHEN h.putts = 1  THEN 1 ELSE 0 END) AS p1,
+          SUM(CASE WHEN h.putts = 2  THEN 1 ELSE 0 END) AS p2,
+          SUM(CASE WHEN h.putts = 3  THEN 1 ELSE 0 END) AS p3,
+          SUM(CASE WHEN h.putts >= 4 THEN 1 ELSE 0 END) AS p4plus,
+          COUNT(*) AS total
+        FROM holes h JOIN rounds r ON r.id=h.round_id
+        WHERE h.putts IS NOT NULL AND r.${where}`);
+
+      if (pt && pt.total) {
+        const puttCols = [
+          ["0 퍼트",    pt.p0,     "#1565C0", "#fff"],
+          ["1 퍼트",    pt.p1,     "#00E676", "#064"],
+          ["2 퍼트",    pt.p2,     "#eef1f4", "#333"],
+          ["3 퍼트",    pt.p3,     "#FFF59D", "#333"],
+          ["4퍼트이상", pt.p4plus, "#FF5252", "#fff"],
+        ];
+        const puttCard = A.el("div", { class: "card" }, [A.el("div", { class: "sec-title" }, "홀별 퍼트 분포")]);
+        puttCard.append(distTable(puttCols, pt.total));
+        content.append(puttCard);
+      }
+
+      function distTable(cols, total) {
+        const pct = (v) => total > 0 ? (Math.round((v / total) * 1000) / 10).toFixed(1) + "%" : "0%";
+        const thStyle = (bg, fg) => ({
+          padding: "7px 8px", textAlign: "center", fontSize: "11px", fontWeight: "700",
+          background: bg, color: fg, whiteSpace: "nowrap",
+          border: bg === "#eef1f4" || bg === "#FFF59D" ? "1px solid #bbb" : "none",
+        });
+        const tdStyle = { padding: "7px 8px", textAlign: "center", fontSize: "12px", whiteSpace: "nowrap", borderBottom: "1px solid var(--line)" };
+        const labelStyle = { padding: "7px 10px", fontSize: "12px", fontWeight: "600", color: "var(--text-2)", whiteSpace: "nowrap", borderBottom: "1px solid var(--line)" };
+        const thead = A.el("thead", null, [
+          A.el("tr", null, [
+            A.el("th", { style: { padding: "7px 10px", background: "#f0f7f3", whiteSpace: "nowrap" } }, ""),
+            ...cols.map(([label,, bg, fg]) => A.el("th", { style: thStyle(bg, fg) }, label)),
+          ]),
+        ]);
+        const tbody = A.el("tbody", null, [
+          A.el("tr", null, [
+            A.el("td", { style: labelStyle }, "홀 수"),
+            ...cols.map(([, v]) => A.el("td", { style: tdStyle }, String(v ?? 0))),
+          ]),
+          A.el("tr", null, [
+            A.el("td", { style: { ...labelStyle, borderBottom: "none" } }, "비중(%)"),
+            ...cols.map(([, v]) => A.el("td", { style: { ...tdStyle, borderBottom: "none", fontWeight: "600" } }, pct(v ?? 0))),
+          ]),
+        ]);
+        return A.el("div", { style: { overflowX: "auto" } }, [
+          A.el("table", { style: { borderCollapse: "collapse", tableLayout: "auto" } }, [thead, tbody]),
+        ]);
+      }
+    }
+
+    // ===== 비용 =====
+    function renderCost(where) {
+      const s = DB.get(`
+        SELECT COUNT(*) AS n,
+          SUM(c.green_fee) AS total_green, AVG(c.green_fee) AS avg_green,
+          SUM(c.cart_fee)  AS total_cart,  AVG(c.cart_fee)  AS avg_cart,
+          SUM(c.caddie_fee) AS total_cad,  AVG(c.caddie_fee) AS avg_cad,
+          SUM(c.etc_cost)  AS total_etc,   AVG(c.etc_cost)  AS avg_etc,
+          SUM(c.event_cost) AS total_evt,  AVG(c.event_cost) AS avg_evt,
+          SUM(c.total_cost) AS grand_total, AVG(c.total_cost) AS avg_total
+        FROM costs c JOIN rounds r ON r.id=c.round_id
+        WHERE r.${where}`) || {};
+      const fw = (v) => v != null ? (Math.round(v * 10) / 10) + "만" : "-";
+      const card = A.el("div", { class: "card" }, [A.el("div", { class: "sec-title" }, `비용 통계 (${s.n || 0}회)`)]);
+      const rows = [
+        ["그린피",  s.total_green, s.avg_green],
+        ["카트비",  s.total_cart,  s.avg_cart],
+        ["캐디피",  s.total_cad,   s.avg_cad],
+        ["기타",    s.total_etc,   s.avg_etc],
+        ["이벤트",  s.total_evt,   s.avg_evt],
+      ];
+      rows.forEach(([label, total, avg]) => {
+        card.append(A.el("div", { style: { display: "flex", justifyContent: "space-between", padding: "9px 2px", borderBottom: "1px solid var(--line)", fontSize: "14px" } }, [
+          A.el("div", { style: { color: "var(--text-2)" } }, label),
+          A.el("div", { style: { display: "flex", gap: "16px" } }, [
+            A.el("div", { style: { color: "var(--text-3)", fontSize: "12px" } }, `합계 ${fw(total)}`),
+            A.el("div", { style: { fontWeight: "600" } }, `평균 ${fw(avg)}`),
+          ]),
+        ]));
+      });
+      card.append(A.el("div", { style: { display: "flex", justifyContent: "space-between", padding: "11px 2px", borderTop: "2px solid var(--green)", marginTop: "2px" } }, [
+        A.el("div", { style: { fontWeight: "700", fontSize: "15px" } }, "총합계"),
+        A.el("div", { style: { display: "flex", gap: "16px" } }, [
+          A.el("div", { style: { color: "var(--text-3)", fontSize: "12px" } }, `합계 ${fw(s.grand_total)}`),
+          A.el("div", { style: { fontWeight: "700", fontSize: "15px", color: "var(--green)" } }, `평균 ${fw(s.avg_total)}`),
+        ]),
+      ]));
+      content.append(card);
+    }
+
+    // ===== 목표 =====
+    function renderGoal() {
+      const year = new Date().getFullYear();
+      const saved = DB.getGoal(year);
+      const def = Calc.YEARLY_GOAL[year] || Calc.YEARLY_GOAL[2026];
+      const goal = saved || Object.assign({ year }, def);
+      const act = DB.get(`SELECT AVG(total_score) avg_s, AVG(good_tee_count) gt, AVG(lost_ball_total) lb,
+        AVG(birdie_on_total) bo, AVG(birdie_count) bd, AVG(putts_total) pt,
+        AVG(three_putt_count) tputt, AVG(triple_count) tp, COUNT(*) n
+        FROM rounds WHERE total_score>0 AND strftime('%Y',round_date)=?`, [String(year)]) || {};
+      const card = A.el("div", { class: "card" }, [A.el("div", { class: "sec-title" }, `${year}년 목표 vs 실제 (올해 ${act.n || 0}회)`)]);
+      const line = (label, goalVal, actVal, pass) => A.el("div", { style: { display: "flex", justifyContent: "space-between", alignItems: "center", padding: "9px 2px", borderBottom: "1px solid var(--line)" } }, [
+        A.el("div", { style: { fontSize: "14px", color: "var(--text-2)" } }, label),
+        A.el("div", { style: { display: "flex", gap: "10px", alignItems: "center" } }, [
+          A.el("div", { style: { fontSize: "13px", color: "var(--text-3)" } }, `목표 ${goalVal}`),
+          A.el("div", { style: { fontSize: "15px", fontWeight: "600" } }, r1(actVal)),
+          A.el("div", { style: { fontSize: "14px", color: pass ? "#0a8f4d" : "#d63333", fontWeight: "700", width: "18px", textAlign: "center" } }, actVal == null ? "·" : (pass ? "✓" : "✕")),
+        ]),
+      ]);
+      const rows = [
+        ["평균 스코어", goal.avg_score, act.avg_s, act.avg_s != null && act.avg_s <= goal.avg_score],
+        ["굿티샷(이상)", goal.good_tee_min, act.gt, act.gt != null && act.gt >= goal.good_tee_min],
+        ["로스트볼(이하)", goal.lost_ball_max, act.lb, act.lb != null && act.lb <= goal.lost_ball_max],
+        ["버디온(이상)", goal.birdie_on_min, act.bo, act.bo != null && act.bo >= goal.birdie_on_min],
+        ["버디(이상)", goal.birdie_min, act.bd, act.bd != null && act.bd >= goal.birdie_min],
+        ["퍼트(이하)", goal.putts_max, act.pt, act.pt != null && act.pt <= goal.putts_max],
+        ["3퍼트(이하)", goal.three_putt_max, act.tputt, act.tputt != null && act.tputt <= goal.three_putt_max],
+        ["트리플+(이하)", goal.triple_max, act.tp, act.tp != null && act.tp <= goal.triple_max],
+      ];
+      rows.forEach((r) => card.append(line(r[0], r[1], r[2], r[3])));
+      card.lastChild.style.borderBottom = "none";
+      content.append(card);
+      const formWrap = A.el("div");
+      let editing = false;
+      const editBtn = A.el("button", { class: "btn btn-ghost", onclick: () => { editing = !editing; renderForm(); } }, "목표 수정");
+      content.append(editBtn, formWrap);
+      function renderForm() {
+        formWrap.innerHTML = "";
+        if (!editing) return;
+        const f = {};
+        const flds = [
+          ["avg_score", "평균 스코어"], ["good_tee_min", "굿티샷(이상)"], ["lost_ball_max", "로스트볼(이하)"],
+          ["birdie_on_min", "버디온(이상)"], ["birdie_min", "버디(이상)"], ["putts_max", "퍼트(이하)"],
+          ["three_putt_max", "3퍼트(이하)"], ["triple_max", "트리플+(이하)"],
+        ];
+        const grid = A.el("div", { class: "grid2" });
+        flds.forEach(([k, label]) => {
+          const inp = A.el("input", { type: "number", inputmode: "numeric", value: goal[k] != null ? goal[k] : "" });
+          f[k] = inp;
+          grid.append(A.el("div", { class: "field" }, [A.el("label", null, label), inp]));
+        });
+        const save = A.el("button", { class: "btn btn-primary", onclick: () => {
+          DB.setGoal({ year, avg_score: +f.avg_score.value || null, good_tee_min: +f.good_tee_min.value || null,
+            lost_ball_max: +f.lost_ball_max.value || null, birdie_on_min: +f.birdie_on_min.value || null,
+            birdie_min: +f.birdie_min.value || null, putts_max: +f.putts_max.value || null,
+            three_putt_max: +f.three_putt_max.value || null, triple_max: +f.triple_max.value || null });
+          A.toast("목표 저장됨"); editing = false; paint();
+        } }, "저장");
+        formWrap.append(A.el("div", { class: "card" }, [A.el("div", { class: "sec-title" }, `${year}년 목표 설정`), grid, save]));
+      }
+    }
+
+    function miniChip(label, value) {
+      return A.el("div", { style: { display: "flex", flexDirection: "column", alignItems: "center", padding: "8px 4px", background: "#f6f7f9", borderRadius: "8px" } }, [
+        A.el("div", { style: { fontSize: "11px", color: "var(--text-2)" } }, label),
+        A.el("div", { style: { fontSize: "16px", fontWeight: "600", color: "var(--green)" } }, String(value)),
+      ]);
+    }
+  };
+})();
+ [
+        A.el("div", { style: { fontSize: "11px", color: "var(--text-2)" } }, label),
+        A.el("div", { style: { fontSize: "16px", fontWeight: "600", color: "var(--green)" } }, String(value)),
+      ]);
+    }
+  };
+})();
