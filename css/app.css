@@ -131,3 +131,31 @@ select { appearance: none; background-image: url("data:image/svg+xml,%3Csvg xmln
 .loading { display: flex; align-items: center; justify-content: center; height: 70vh; color: var(--text-2); font-size: 14px; }
 
 .empty { text-align: center; color: var(--text-3); padding: 40px 10px; font-size: 14px; }
+
+/* 목록 탭 (라운드/동반자) */
+.list-tabbar { display: flex; border-bottom: 2px solid var(--line); margin-bottom: 12px; }
+.list-tab { flex: 1; text-align: center; padding: 10px 4px; font-size: 13px; color: var(--text-3); cursor: pointer; border-bottom: 2px solid transparent; margin-bottom: -2px; }
+.list-tab-on { color: var(--green); font-weight: 700; border-bottom: 2px solid var(--green); }
+
+/* 통계 탭 */
+.stat-tabbar { display: flex; overflow-x: auto; border-bottom: 2px solid var(--line); }
+.stat-tabbar::-webkit-scrollbar { display: none; }
+.stat-tab { flex-shrink: 0; padding: 0 14px; height: 36px; display: flex; align-items: center; font-size: 13px; color: var(--text-3); cursor: pointer; border-bottom: 2px solid transparent; margin-bottom: -2px; white-space: nowrap; }
+.stat-tab-on { color: var(--green); font-weight: 700; border-bottom: 2px solid var(--green); }
+
+/* 기간 필터 바 */
+.stat-filter-bar { height: 36px; display: flex; align-items: center; justify-content: space-between; padding: 0 12px; background: #f8f9fa; border-bottom: 1px solid var(--line); }
+.stat-period-lbl { font-size: 11px; color: var(--text-2); }
+.stat-period-btn { font-size: 11px; background: var(--green); color: #fff; border: none; border-radius: 5px; padding: 3px 10px; }
+
+/* 리포트 탭 */
+.rep-tabbar { display: flex; border-bottom: 2px solid var(--line); background: #f8f9fa; }
+.rep-tab { flex: 1; text-align: center; height: 36px; line-height: 36px; font-size: 13px; color: var(--text-3); cursor: pointer; border-bottom: 2px solid transparent; margin-bottom: -2px; }
+.rep-tab-on { color: var(--green); font-weight: 700; border-bottom: 2px solid var(--green); }
+
+/* 리포트 테이블 */
+.rep-table { width: 100%; border-collapse: collapse; font-size: 12px; }
+.rep-table thead { background: #f0f7f3; }
+.rep-th { padding: 8px 6px; text-align: center; color: var(--green); font-weight: 700; border-bottom: 2px solid #c8e6c9; white-space: nowrap; }
+.rep-td { padding: 9px 6px; text-align: center; border-bottom: 1px solid var(--line); }
+.rep-table tbody tr:last-child .rep-td { border-bottom: none; }
