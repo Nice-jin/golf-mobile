@@ -159,3 +159,6 @@ select { appearance: none; background-image: url("data:image/svg+xml,%3Csvg xmln
 .rep-th { padding: 8px 6px; text-align: center; color: var(--green); font-weight: 700; border-bottom: 2px solid #c8e6c9; white-space: nowrap; }
 .rep-td { padding: 9px 6px; text-align: center; border-bottom: 1px solid var(--line); }
 .rep-table tbody tr:last-child .rep-td { border-bottom: none; }
+
+/* 홀 dots 9열 2줄 */
+.hole-dots-9 { display: grid; grid-template-columns: repeat(9, 1fr); gap: 4px; margin-bottom: 2px; }
