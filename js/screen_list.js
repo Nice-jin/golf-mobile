@@ -1,1 +1,263 @@
-function a0_0x20d0(){const _0x327ab5=['삭제됨','#FF5252','grid','26AVrKvh','gradeFor','3px','temp_high','list','1px\x20solid\x20var(--line)','bogey_count','#BA68C8','div','getRoundFull','10px','repeat(4,1fr)','total_score','course2','join','891085eWQjrB','4px\x2014px','push','#217346','name','var(--text)','back_score','some','lost_ball_total','append','listRounds','회\x20동반','chosungMatch','2px\x200','검색\x20결과\x20없음','deleteRound','4px\x200\x208px','115ZrDAYZ','App','500','score','map','600','list-tabbar','pointer','\x20·\x20','5px','#064','4px\x2012px','13px','value','length','total_cost','gradeColorText','space-between','total_par','addEventListener','210WSzQhN','16px','PAR대비','←\x20목록','1/1','forEach','#00E676','triple_count','cost','input','course1','동반자','15px','8px\x200\x204px','#fff','empty','CC·코스\x20검색\x20(초성\x20가능)','front_score','84bBSgtA','review','#333','38526fjdNbH','slice','12px','100%','4px\x200\x202px','column','setAppbar','btn\x20btn-line','var(--text-3)','weather','players','46px','12px\x2014px','temp_low','86068MNENEU','#eef1f4','companion','\x20list-tab-on','note','hidden','center','btn\x20btn-primary','8px','Screens','#fcfcfd','\x20·\x20검색\x20','list-tab','par_count','11px','birdie_count','아직\x20입력된\x20라운드가\x20없어요','var(--text-2)','158984eABCJg','88WLYWhQ','holes','three_putt_count','round','📋\x20라운드','6px','라운드\x20데이터\x20없음','play_type','par','cc_name','text','btn','button','1px\x20solid\x20#FF5252','500670SEvujS','putts_total','roundsByCompanion','time_part','pre-wrap','삭제\x20확정','className','trim','companionList','\x20동반\x20라운드','good_tee_count','174544SjrQZJ','99039hZYmBe','good_tee','티샷아웃','innerHTML','이름\x20검색\x20(초성\x20가능)','time_text','toast','180qynRDj','round_date','filter','flex','card'];a0_0x20d0=function(){return _0x327ab5;};return a0_0x20d0();}function a0_0x2557(_0x2d034a,_0x2b6e67){_0x2d034a=_0x2d034a-0x197;const _0x20d07a=a0_0x20d0();let _0x2557cf=_0x20d07a[_0x2d034a];return _0x2557cf;}(function(_0x1a20f8,_0x667e1){const _0x4a8630=a0_0x2557,_0x557d75=_0x1a20f8();while(!![]){try{const _0x4a9fd2=parseInt(_0x4a8630(0x228))/0x1+parseInt(_0x4a8630(0x1a5))/0x2*(-parseInt(_0x4a8630(0x229))/0x3)+parseInt(_0x4a8630(0x1fc))/0x4*(parseInt(_0x4a8630(0x1c5))/0x5)+-parseInt(_0x4a8630(0x1ee))/0x6*(parseInt(_0x4a8630(0x1d9))/0x7)+-parseInt(_0x4a8630(0x20e))/0x8*(-parseInt(_0x4a8630(0x19d))/0x9)+parseInt(_0x4a8630(0x21d))/0xa*(parseInt(_0x4a8630(0x20f))/0xb)+-parseInt(_0x4a8630(0x1eb))/0xc*(parseInt(_0x4a8630(0x1b4))/0xd);if(_0x4a9fd2===_0x667e1)break;else _0x557d75['push'](_0x557d75['shift']());}catch(_0x3fa96c){_0x557d75['push'](_0x557d75['shift']());}}}(a0_0x20d0,0x594f9),(function(){'use strict';const _0x431697=a0_0x2557;const _0x2e53fc=window[_0x431697(0x205)]=window[_0x431697(0x205)]||{};function _0x409929(_0x5d5044){const _0x4111d8=_0x431697,_0x979392=Calc[_0x4111d8(0x1a6)](_0x4111d8(0x1c8),_0x5d5044),_0x3e10ff={'잘함':[_0x4111d8(0x1df),_0x4111d8(0x1cf)],'보통':[_0x4111d8(0x1fd),'#333'],'아쉬움':[_0x4111d8(0x1ac),_0x4111d8(0x1e7)],'노력':[_0x4111d8(0x1a3),'#fff']};return _0x3e10ff[_0x979392]||[_0x4111d8(0x1fd),'#333'];}_0x2e53fc[_0x431697(0x1a9)]=function(_0x5d7a39){const _0x303462=_0x431697,_0x2ba2b4=window[_0x303462(0x1c6)];let _0x530623=_0x303462(0x212),_0xd9570c=null;const _0x106511=_0x2ba2b4['el'](_0x303462(0x1ad),{'class':_0x303462(0x208)+(_0x530623===_0x303462(0x212)?_0x303462(0x1ff):''),'onclick':()=>{const _0x5652da=_0x303462;_0x530623!==_0x5652da(0x212)&&(_0x530623=_0x5652da(0x212),_0xd9570c=null,_0x5b2dfe());}},_0x303462(0x213)),_0x2f1cd0=_0x2ba2b4['el']('div',{'class':'list-tab'+(_0x530623===_0x303462(0x1fe)?_0x303462(0x1ff):''),'onclick':()=>{const _0x35cfee=_0x303462;_0x530623!==_0x35cfee(0x1fe)&&(_0x530623=_0x35cfee(0x1fe),_0xd9570c=null,_0x5b2dfe());}},'👥\x20동반자'),_0x5b582d=_0x2ba2b4['el'](_0x303462(0x1ad),{'class':_0x303462(0x1cb)},[_0x106511,_0x2f1cd0]),_0x181e93=_0x2ba2b4['el'](_0x303462(0x1ad));_0x5d7a39[_0x303462(0x1bd)](_0x5b582d,_0x181e93);function _0x5b2dfe(){const _0x3fb871=_0x303462;_0x106511[_0x3fb871(0x223)]='list-tab'+(_0x530623==='round'?_0x3fb871(0x1ff):''),_0x2f1cd0[_0x3fb871(0x223)]=_0x3fb871(0x208)+(_0x530623==='companion'?_0x3fb871(0x1ff):''),_0x181e93['innerHTML']='';if(_0x530623==='round')_0x3d8303();else _0x1099ac();}_0x5b2dfe();function _0x3d8303(){const _0x422697=_0x303462;let _0x5218a6='',_0xee9036=null,_0x2d32d4=null;_0x2ba2b4[_0x422697(0x1f4)]('라운드\x20목록','');const _0x26109e=_0x2ba2b4['el'](_0x422697(0x1e2),{'type':_0x422697(0x219),'placeholder':_0x422697(0x1e9)});_0x26109e['addEventListener'](_0x422697(0x1e2),()=>{const _0x47e9be=_0x422697;_0x5218a6=_0x26109e['value'][_0x47e9be(0x224)](),_0x58607b();});const _0x1fdeb1=_0x2ba2b4['el']('div');_0x181e93[_0x422697(0x1bd)](_0x2ba2b4['el'](_0x422697(0x1ad),{'style':{'marginBottom':'12px'}},[_0x26109e]),_0x1fdeb1),_0x58607b();function _0x58607b(){const _0x4e1f35=_0x422697,_0x3f1fc3=DB[_0x4e1f35(0x1be)](),_0x3d6531=_0x5218a6?_0x3f1fc3[_0x4e1f35(0x19f)](_0x28cc20=>Calc[_0x4e1f35(0x1c0)](_0x5218a6,(_0x28cc20['cc_name']||'')+'\x20'+(_0x28cc20[_0x4e1f35(0x1e3)]||'')+'\x20'+(_0x28cc20[_0x4e1f35(0x1b2)]||''))):_0x3f1fc3;_0x2ba2b4[_0x4e1f35(0x1f4)]('라운드\x20목록','총\x20'+_0x3f1fc3['length']+'개'+(_0x5218a6?_0x4e1f35(0x207)+_0x3d6531['length']:'')),_0x1fdeb1[_0x4e1f35(0x199)]='';if(!_0x3d6531['length']){_0x1fdeb1[_0x4e1f35(0x1bd)](_0x2ba2b4['el']('div',{'class':_0x4e1f35(0x1e8)},_0x5218a6?_0x4e1f35(0x1c2):_0x4e1f35(0x20c)));return;}_0x3d6531[_0x4e1f35(0x1de)](_0x39d506=>_0x1fdeb1['append'](_0x215842(_0x39d506)));}function _0x215842(_0x478531){const _0x3ee4d4=_0x422697,[_0x146e4d,_0xca1be9]=_0x409929(_0x478531['total_score']),_0x27d702=_0x2ba2b4['el'](_0x3ee4d4(0x1ad),{'style':{'display':'flex','alignItems':_0x3ee4d4(0x202),'justifyContent':_0x3ee4d4(0x1d6),'padding':_0x3ee4d4(0x1fa)},'onclick':()=>{_0xee9036=_0xee9036===_0x478531['id']?null:_0x478531['id'],_0x2d32d4=null,_0x3541b9();}},[_0x2ba2b4['el'](_0x3ee4d4(0x1ad),null,[_0x2ba2b4['el'](_0x3ee4d4(0x1ad),{'style':{'fontSize':_0x3ee4d4(0x1e5),'fontWeight':'500'}},_0x478531[_0x3ee4d4(0x218)]||'-'),_0x2ba2b4['el'](_0x3ee4d4(0x1ad),{'style':{'fontSize':_0x3ee4d4(0x20a),'color':_0x3ee4d4(0x1f6)}},[String(_0x478531['round_date'])['slice'](0x0,0xa),_0x478531[_0x3ee4d4(0x1e3)]||_0x478531['course2']?_0x3ee4d4(0x1cd)+(_0x478531[_0x3ee4d4(0x1e3)]||'')+(_0x478531['course2']?'/'+_0x478531['course2']:''):''][_0x3ee4d4(0x1b3)](''))]),_0x2ba2b4['el'](_0x3ee4d4(0x1ad),{'style':{'background':_0x146e4d,'color':_0xca1be9,'fontSize':_0x3ee4d4(0x1da),'fontWeight':_0x3ee4d4(0x1ca),'padding':_0x3ee4d4(0x1b5),'borderRadius':_0x3ee4d4(0x204),'minWidth':_0x3ee4d4(0x1f9),'textAlign':'center'}},_0x478531[_0x3ee4d4(0x1b1)]!=null?String(_0x478531[_0x3ee4d4(0x1b1)]):'-')]),_0x561326=_0x2ba2b4['el'](_0x3ee4d4(0x1ad),{'class':_0x3ee4d4(0x1a1),'style':{'padding':'0','overflow':_0x3ee4d4(0x201)}},[_0x27d702]);if(_0xee9036===_0x478531['id'])_0x561326['append'](_0x8e22d(_0x478531['id'],()=>{_0xee9036=null,_0x2d32d4=null,_0x58607b();}));return _0x561326;}function _0x3541b9(){_0x58607b();}function _0x8e22d(_0x17ed1d,_0x3399d1){const _0x475c20=_0x422697,_0x378676=DB[_0x475c20(0x1ae)](_0x17ed1d),_0x3d2e2c=_0x378676[_0x475c20(0x212)],_0x1081ea=_0x2ba2b4['el'](_0x475c20(0x1ad),{'style':{'borderTop':_0x475c20(0x1aa),'padding':_0x475c20(0x1fa),'background':_0x475c20(0x206)}}),_0x148716=[];if(_0x3d2e2c['time_part'])_0x148716[_0x475c20(0x1b6)](_0x3d2e2c[_0x475c20(0x220)]+'부');if(_0x3d2e2c[_0x475c20(0x19b)])_0x148716[_0x475c20(0x1b6)](_0x3d2e2c['time_text']);if(_0x3d2e2c[_0x475c20(0x1f7)])_0x148716[_0x475c20(0x1b6)](_0x3d2e2c[_0x475c20(0x1f7)]);if(_0x3d2e2c[_0x475c20(0x1a8)]!=null||_0x3d2e2c[_0x475c20(0x1fb)]!=null)_0x148716[_0x475c20(0x1b6)]((_0x3d2e2c[_0x475c20(0x1a8)]??'-')+'/'+(_0x3d2e2c[_0x475c20(0x1fb)]??'-')+'℃');if(_0x3d2e2c[_0x475c20(0x216)])_0x148716['push'](_0x3d2e2c['play_type']);if(_0x148716[_0x475c20(0x1d3)])_0x1081ea[_0x475c20(0x1bd)](_0x2ba2b4['el']('div',{'style':{'fontSize':_0x475c20(0x1f0),'color':_0x475c20(0x20d),'marginBottom':'10px'}},_0x148716['join']('\x20·\x20')));const _0x1774b5=(_0x878f43,_0x3165de,_0x238024)=>_0x2ba2b4['el'](_0x475c20(0x1ad),{'style':{'display':'flex','flexDirection':_0x475c20(0x1f3),'alignItems':_0x475c20(0x202),'padding':'6px\x204px','background':'#f6f7f9','borderRadius':_0x475c20(0x204)}},[_0x2ba2b4['el'](_0x475c20(0x1ad),{'style':{'fontSize':_0x475c20(0x20a),'color':'var(--text-2)'}},_0x878f43),_0x2ba2b4['el']('div',{'style':{'fontSize':_0x475c20(0x1e5),'fontWeight':_0x475c20(0x1ca),'color':_0x238024||_0x475c20(0x1b9)}},String(_0x3165de??'-'))]);_0x1081ea['append'](_0x2ba2b4['el'](_0x475c20(0x1ad),{'style':{'display':_0x475c20(0x1a4),'gridTemplateColumns':_0x475c20(0x1b0),'gap':_0x475c20(0x214),'marginBottom':_0x475c20(0x204)}},[_0x1774b5('총',_0x3d2e2c[_0x475c20(0x1b1)]??'-',_0x475c20(0x1b7)),_0x1774b5('전반',_0x3d2e2c[_0x475c20(0x1ea)]??'-'),_0x1774b5('후반',_0x3d2e2c[_0x475c20(0x1ba)]??'-'),_0x1774b5(_0x475c20(0x1db),_0x3d2e2c['total_score']!=null&&_0x3d2e2c['total_par']?(_0x3d2e2c[_0x475c20(0x1b1)]-_0x3d2e2c[_0x475c20(0x1d7)]>=0x0?'+':'')+(_0x3d2e2c['total_score']-_0x3d2e2c[_0x475c20(0x1d7)]):'-')])),_0x1081ea[_0x475c20(0x1bd)](_0x2ba2b4['el'](_0x475c20(0x1ad),{'style':{'display':_0x475c20(0x1a4),'gridTemplateColumns':_0x475c20(0x1b0),'gap':_0x475c20(0x214),'marginBottom':_0x475c20(0x204)}},[_0x1774b5('굿티샷',_0x3d2e2c[_0x475c20(0x227)]??0x0,Calc[_0x475c20(0x1d5)](_0x475c20(0x197),_0x3d2e2c['good_tee_count'])),_0x1774b5(_0x475c20(0x198),_0x3d2e2c['tee_out_count']??0x0),_0x1774b5('버디온',_0x3d2e2c['birdie_on_total']??0x0),_0x1774b5('퍼트',_0x3d2e2c[_0x475c20(0x21e)]??0x0)])),_0x1081ea[_0x475c20(0x1bd)](_0x2ba2b4['el']('div',{'style':{'display':'grid','gridTemplateColumns':_0x475c20(0x1b0),'gap':_0x475c20(0x214),'marginBottom':'8px'}},[_0x1774b5('버디',_0x3d2e2c[_0x475c20(0x20b)]??0x0),_0x1774b5('파',_0x3d2e2c[_0x475c20(0x209)]??0x0),_0x1774b5('보기',_0x3d2e2c[_0x475c20(0x1ab)]??0x0),_0x1774b5('트리플+',_0x3d2e2c[_0x475c20(0x1e0)]??0x0)])),_0x1081ea[_0x475c20(0x1bd)](_0x2ba2b4['el'](_0x475c20(0x1ad),{'style':{'display':'grid','gridTemplateColumns':_0x475c20(0x1b0),'gap':_0x475c20(0x214),'marginBottom':_0x475c20(0x1af)}},[_0x1774b5('멀리건',_0x3d2e2c['mulligan_total']??0x0),_0x1774b5('LB',_0x3d2e2c[_0x475c20(0x1bc)]??0x0),_0x1774b5('3퍼트',_0x3d2e2c[_0x475c20(0x211)]??0x0),_0x1774b5('비용',_0x378676[_0x475c20(0x1e1)]&&_0x378676[_0x475c20(0x1e1)]['total_cost']?_0x378676[_0x475c20(0x1e1)][_0x475c20(0x1d4)]:'-')]));if(_0x378676[_0x475c20(0x210)][_0x475c20(0x1bb)](_0x19f53a=>_0x19f53a['score']!=null))_0x1081ea['append'](_0x5f152c(_0x378676[_0x475c20(0x210)]));_0x378676['players'][_0x475c20(0x1d3)]&&(_0x1081ea['append'](_0x2ba2b4['el'](_0x475c20(0x1ad),{'style':{'fontSize':_0x475c20(0x1f0),'color':_0x475c20(0x20d),'margin':_0x475c20(0x1e6)}},_0x475c20(0x1e4))),_0x1081ea[_0x475c20(0x1bd)](_0x2ba2b4['el'](_0x475c20(0x1ad),{'style':{'fontSize':_0x475c20(0x1d1)}},_0x378676[_0x475c20(0x1f8)][_0x475c20(0x1c9)](_0x15ab63=>_0x15ab63[_0x475c20(0x1b8)]+(_0x15ab63[_0x475c20(0x1c8)]?'\x20'+_0x15ab63[_0x475c20(0x1c8)]+'타':'')+(_0x15ab63['note']?'\x20('+_0x15ab63[_0x475c20(0x200)]+')':''))[_0x475c20(0x1b3)](',\x20'))));_0x3d2e2c[_0x475c20(0x1ec)]&&(_0x1081ea[_0x475c20(0x1bd)](_0x2ba2b4['el']('div',{'style':{'fontSize':_0x475c20(0x1f0),'color':_0x475c20(0x20d),'margin':_0x475c20(0x1e6)}},'총평')),_0x1081ea[_0x475c20(0x1bd)](_0x2ba2b4['el']('div',{'style':{'fontSize':_0x475c20(0x1d1),'whiteSpace':_0x475c20(0x221)}},_0x3d2e2c[_0x475c20(0x1ec)])));const _0x358ab1=_0x2ba2b4['el'](_0x475c20(0x1ad),{'style':{'flex':'1'}});let _0x1ade73=![];function _0x1757f3(){const _0x1e159d=_0x475c20;_0x358ab1['innerHTML']='',_0x1ade73?_0x358ab1['append'](_0x2ba2b4['el'](_0x1e159d(0x1ad),{'class':'btn-row'},[_0x2ba2b4['el'](_0x1e159d(0x21b),{'class':_0x1e159d(0x1f5),'onclick':()=>{_0x1ade73=![],_0x1757f3();}},'취소'),_0x2ba2b4['el']('button',{'class':_0x1e159d(0x21a),'style':{'background':_0x1e159d(0x1a3),'color':'#fff'},'onclick':()=>{const _0x428377=_0x1e159d;DB[_0x428377(0x1c3)](_0x17ed1d),_0x2ba2b4[_0x428377(0x19c)](_0x428377(0x1a2)),_0x3399d1&&_0x3399d1();}},_0x1e159d(0x222))])):_0x358ab1['append'](_0x2ba2b4['el']('button',{'class':_0x1e159d(0x21a),'style':{'background':_0x1e159d(0x1e7),'color':_0x1e159d(0x1a3),'border':_0x1e159d(0x21c)},'onclick':()=>{_0x1ade73=!![],_0x1757f3();}},'삭제'));}return _0x1757f3(),_0x1081ea[_0x475c20(0x1bd)](_0x2ba2b4['el'](_0x475c20(0x1ad),{'class':'btn-row','style':{'marginTop':_0x475c20(0x1f0)}},[_0x2ba2b4['el'](_0x475c20(0x21b),{'class':_0x475c20(0x203),'onclick':()=>_0x2ba2b4['go'](_0x475c20(0x1e2),{'editId':_0x17ed1d})},'수정'),_0x358ab1])),_0x1081ea;}}function _0x1099ac(){const _0x26d957=_0x303462;_0x2ba2b4['setAppbar']('동반자\x20목록',''),_0x181e93[_0x26d957(0x199)]='';if(_0xd9570c){_0x5ec8ae(_0xd9570c);return;}let _0x3b7307='';const _0x3f690a=_0x2ba2b4['el'](_0x26d957(0x1e2),{'type':'text','placeholder':_0x26d957(0x19a)});_0x3f690a[_0x26d957(0x1d8)]('input',()=>{const _0x1434f2=_0x26d957;_0x3b7307=_0x3f690a[_0x1434f2(0x1d2)]['trim'](),_0x17521c();});const _0x3a9612=_0x2ba2b4['el']('div');_0x181e93['append'](_0x2ba2b4['el'](_0x26d957(0x1ad),{'style':{'marginBottom':'12px'}},[_0x3f690a]),_0x3a9612),_0x17521c();function _0x17521c(){const _0x433a21=_0x26d957,_0x17b3bf=DB[_0x433a21(0x225)](),_0x4f70c1=_0x3b7307?_0x17b3bf['filter'](_0x35aa26=>Calc[_0x433a21(0x1c0)](_0x3b7307,_0x35aa26[_0x433a21(0x1b8)]||'')):_0x17b3bf;_0x2ba2b4['setAppbar']('동반자\x20목록','총\x20'+_0x17b3bf[_0x433a21(0x1d3)]+'명'),_0x3a9612[_0x433a21(0x199)]='';if(!_0x4f70c1[_0x433a21(0x1d3)]){_0x3a9612[_0x433a21(0x1bd)](_0x2ba2b4['el'](_0x433a21(0x1ad),{'class':_0x433a21(0x1e8)},_0x3b7307?_0x433a21(0x1c2):'동반자\x20데이터가\x20없어요'));return;}_0x4f70c1['forEach'](_0x2c23b8=>_0x3a9612['append'](_0x211a41(_0x2c23b8)));}function _0x211a41(_0x5a65c2){const _0x972d40=_0x26d957;return _0x2ba2b4['el'](_0x972d40(0x1ad),{'class':_0x972d40(0x1a1),'style':{'padding':'0','overflow':_0x972d40(0x201)}},[_0x2ba2b4['el']('div',{'style':{'display':_0x972d40(0x1a0),'alignItems':_0x972d40(0x202),'justifyContent':_0x972d40(0x1d6),'padding':'12px\x2014px','cursor':_0x972d40(0x1cc)},'onclick':()=>{const _0x4b5b2e=_0x972d40;_0xd9570c=_0x5a65c2[_0x4b5b2e(0x1b8)],_0x1099ac();}},[_0x2ba2b4['el'](_0x972d40(0x1ad),null,[_0x2ba2b4['el']('div',{'style':{'fontSize':_0x972d40(0x1e5),'fontWeight':'500'}},_0x5a65c2[_0x972d40(0x1b8)]||'-'),_0x5a65c2[_0x972d40(0x200)]?_0x2ba2b4['el'](_0x972d40(0x1ad),{'style':{'fontSize':_0x972d40(0x20a),'color':_0x972d40(0x1f6)}},_0x5a65c2['note']):null]),_0x2ba2b4['el'](_0x972d40(0x1ad),{'style':{'background':'#e8f5e9','color':_0x972d40(0x1b7),'borderRadius':_0x972d40(0x204),'padding':_0x972d40(0x1d0),'fontSize':_0x972d40(0x1d1),'fontWeight':'600'}},_0x5a65c2['n']+_0x972d40(0x1bf))])]);}}function _0x5ec8ae(_0x4e0394){const _0x55ce3e=_0x303462,_0x152413=window[_0x55ce3e(0x1c6)],_0x180dcf=_0x152413['el']('button',{'class':'ab-btn','onclick':()=>{const _0x108ff2=_0x55ce3e;_0xd9570c=null,_0x181e93[_0x108ff2(0x199)]='',_0x1099ac();}},_0x55ce3e(0x1dc));_0x152413[_0x55ce3e(0x1f4)](_0x4e0394+_0x55ce3e(0x226),'',_0x180dcf),_0x181e93[_0x55ce3e(0x199)]='';const _0x556f03=DB[_0x55ce3e(0x21f)](_0x4e0394);if(!_0x556f03[_0x55ce3e(0x1d3)]){_0x181e93[_0x55ce3e(0x1bd)](_0x152413['el'](_0x55ce3e(0x1ad),{'class':_0x55ce3e(0x1e8)},_0x55ce3e(0x215)));return;}_0x556f03['forEach'](_0x2ad238=>{const _0x302f6b=_0x55ce3e,[_0x25b46c,_0x1b8d52]=_0x409929(_0x2ad238[_0x302f6b(0x1b1)]);_0x181e93[_0x302f6b(0x1bd)](_0x152413['el'](_0x302f6b(0x1ad),{'class':_0x302f6b(0x1a1),'style':{'padding':'0','overflow':'hidden'}},[_0x152413['el'](_0x302f6b(0x1ad),{'style':{'display':_0x302f6b(0x1a0),'alignItems':_0x302f6b(0x202),'justifyContent':_0x302f6b(0x1d6),'padding':'12px\x2014px'},'onclick':()=>_0x152413['go'](_0x302f6b(0x1e2),{'editId':_0x2ad238['id']})},[_0x152413['el'](_0x302f6b(0x1ad),null,[_0x152413['el'](_0x302f6b(0x1ad),{'style':{'fontSize':'15px','fontWeight':_0x302f6b(0x1c7)}},_0x2ad238[_0x302f6b(0x218)]||'-'),_0x152413['el']('div',{'style':{'fontSize':_0x302f6b(0x20a),'color':'var(--text-3)'}},[String(_0x2ad238[_0x302f6b(0x19e)])['slice'](0x0,0xa),_0x2ad238[_0x302f6b(0x1e3)]||_0x2ad238[_0x302f6b(0x1b2)]?_0x302f6b(0x1cd)+(_0x2ad238[_0x302f6b(0x1e3)]||'')+(_0x2ad238['course2']?'/'+_0x2ad238['course2']:''):'']['join'](''))]),_0x152413['el'](_0x302f6b(0x1ad),{'style':{'background':_0x25b46c,'color':_0x1b8d52,'fontSize':_0x302f6b(0x1da),'fontWeight':_0x302f6b(0x1ca),'padding':'4px\x2014px','borderRadius':_0x302f6b(0x204),'minWidth':_0x302f6b(0x1f9),'textAlign':_0x302f6b(0x202)}},_0x2ad238['total_score']!=null?String(_0x2ad238[_0x302f6b(0x1b1)]):'-')])]));});}function _0x5f152c(_0x5bd4d9){const _0x271a43=_0x303462,_0xecb78c=window[_0x271a43(0x1c6)],_0x1cbb3d=_0x5d2494=>{const _0x10c5e9=_0x271a43,_0x42f1a6=_0x5d2494[_0x10c5e9(0x1c8)]!=null&&_0x5d2494['par']!=null,_0x405c8c=_0x42f1a6?Calc['scoreDiffColor'](_0x5d2494['score']-_0x5d2494[_0x10c5e9(0x217)]):null,_0x115534=_0x405c8c&&_0x405c8c!=='#eef1f4'&&_0x405c8c!=='#FFF59D';return _0xecb78c['el']('div',{'style':{'width':_0x10c5e9(0x1f1),'aspectRatio':_0x10c5e9(0x1dd),'display':_0x10c5e9(0x1a0),'alignItems':_0x10c5e9(0x202),'justifyContent':'center','fontSize':_0x10c5e9(0x1f0),'fontWeight':'600','borderRadius':_0x10c5e9(0x1ce),'border':_0x10c5e9(0x1aa),'background':_0x405c8c||_0x10c5e9(0x1e7),'color':_0x115534?'#fff':_0x10c5e9(0x1ed)}},_0x42f1a6?String(_0x5d2494[_0x10c5e9(0x1c8)]-_0x5d2494[_0x10c5e9(0x217)]):'·');},_0x1eba0c=_0x2ce7bf=>_0xecb78c['el'](_0x271a43(0x1ad),{'style':{'display':'grid','gridTemplateColumns':'repeat(9,1fr)','gap':_0x271a43(0x1a7)}},_0x2ce7bf[_0x271a43(0x1c9)](_0x1cbb3d));return _0xecb78c['el'](_0x271a43(0x1ad),{'style':{'margin':_0x271a43(0x1c4)}},[_0xecb78c['el']('div',{'style':{'fontSize':_0x271a43(0x20a),'color':_0x271a43(0x1f6),'margin':_0x271a43(0x1c1)}},'전반'),_0x1eba0c(_0x5bd4d9['slice'](0x0,0x9)),_0xecb78c['el']('div',{'style':{'fontSize':_0x271a43(0x20a),'color':_0x271a43(0x1f6),'margin':_0x271a43(0x1f2)}},'후반'),_0x1eba0c(_0x5bd4d9[_0x271a43(0x1ef)](0x9,0x12))]);}};}()));
+/* ============================================================
+ * screen_list.js - 라운드 목록 + 동반자 목록
+ * ============================================================ */
+(function () {
+  "use strict";
+  const Screens = (window.Screens = window.Screens || {});
+
+  function scoreBadge(score) {
+    const g = Calc.gradeFor("score", score);
+    const map = { "잘함": ["#00E676", "#064"], "보통": ["#eef1f4", "#333"], "아쉬움": ["#BA68C8", "#fff"], "노력": ["#FF5252", "#fff"] };
+    return map[g] || ["#eef1f4", "#333"];
+  }
+
+  Screens.list = function (container) {
+    const A = window.App;
+    let activeTab = "round"; // "round" | "companion"
+    let companionDetail = null; // 선택된 동반자 이름
+
+    // ── 탭 바 ────────────────────────────────────────────────
+    const tabRound = A.el("div", { class: "list-tab" + (activeTab === "round" ? " list-tab-on" : ""),
+      onclick: () => { if (activeTab !== "round") { activeTab = "round"; companionDetail = null; switchTab(); } } }, "📋 라운드");
+    const tabComp  = A.el("div", { class: "list-tab" + (activeTab === "companion" ? " list-tab-on" : ""),
+      onclick: () => { if (activeTab !== "companion") { activeTab = "companion"; companionDetail = null; switchTab(); } } }, "👥 동반자");
+    const tabBar   = A.el("div", { class: "list-tabbar" }, [tabRound, tabComp]);
+
+    const body = A.el("div");
+    container.append(tabBar, body);
+
+    function switchTab() {
+      tabRound.className = "list-tab" + (activeTab === "round" ? " list-tab-on" : "");
+      tabComp.className  = "list-tab" + (activeTab === "companion" ? " list-tab-on" : "");
+      body.innerHTML = "";
+      if (activeTab === "round") renderRound();
+      else renderCompanion();
+    }
+
+    switchTab();
+
+    // ══════════════════════════════════════════════════════════
+    // 라운드 목록
+    // ══════════════════════════════════════════════════════════
+    function renderRound() {
+      let filter = "";
+      let expanded = null;
+      let confirmDel = null;
+
+      A.setAppbar("라운드 목록", "");
+      const search = A.el("input", { type: "text", placeholder: "CC·코스 검색 (초성 가능)" });
+      search.addEventListener("input", () => { filter = search.value.trim(); paint(); });
+      const listWrap = A.el("div");
+      body.append(A.el("div", { style: { marginBottom: "12px" } }, [search]), listWrap);
+      paint();
+
+      function paint() {
+        const all = DB.listRounds();
+        const rows = filter
+          ? all.filter((r) => Calc.chosungMatch(filter, (r.cc_name || "") + " " + (r.course1 || "") + " " + (r.course2 || "")))
+          : all;
+        A.setAppbar("라운드 목록", `총 ${all.length}개` + (filter ? ` · 검색 ${rows.length}` : ""));
+        listWrap.innerHTML = "";
+        if (!rows.length) { listWrap.append(A.el("div", { class: "empty" }, filter ? "검색 결과 없음" : "아직 입력된 라운드가 없어요")); return; }
+        rows.forEach((r) => listWrap.append(rowEl(r)));
+      }
+
+      function rowEl(r) {
+        const [bg, fg] = scoreBadge(r.total_score);
+        const head = A.el("div", {
+          style: { display: "flex", alignItems: "center", justifyContent: "space-between", padding: "12px 14px" },
+          onclick: () => { expanded = (expanded === r.id ? null : r.id); confirmDel = null; paint2(); },
+        }, [
+          A.el("div", null, [
+            A.el("div", { style: { fontSize: "15px", fontWeight: "500" } }, r.cc_name || "-"),
+            A.el("div", { style: { fontSize: "11px", color: "var(--text-3)" } }, [
+              String(r.round_date).slice(0, 10),
+              (r.course1 || r.course2) ? ` · ${r.course1 || ""}${r.course2 ? "/" + r.course2 : ""}` : "",
+            ].join("")),
+          ]),
+          A.el("div", { style: { background: bg, color: fg, fontSize: "16px", fontWeight: "600", padding: "4px 14px", borderRadius: "8px", minWidth: "46px", textAlign: "center" } },
+            r.total_score != null ? String(r.total_score) : "-"),
+        ]);
+        const card = A.el("div", { class: "card", style: { padding: "0", overflow: "hidden" } }, [head]);
+        if (expanded === r.id) card.append(detailEl(r.id, () => { expanded = null; confirmDel = null; paint(); }));
+        return card;
+      }
+
+      function paint2() { paint(); }
+
+      function detailEl(id, onDelete) {
+        const full = DB.getRoundFull(id);
+        const r = full.round;
+        const wrap = A.el("div", { style: { borderTop: "1px solid var(--line)", padding: "12px 14px", background: "#fcfcfd" } });
+
+        const meta = [];
+        if (r.time_part) meta.push(`${r.time_part}부`);
+        if (r.time_text) meta.push(r.time_text);
+        if (r.weather) meta.push(r.weather);
+        if (r.temp_high != null || r.temp_low != null) meta.push(`${r.temp_high ?? "-"}/${r.temp_low ?? "-"}℃`);
+        if (r.play_type) meta.push(r.play_type);
+        if (meta.length) wrap.append(A.el("div", { style: { fontSize: "12px", color: "var(--text-2)", marginBottom: "10px" } }, meta.join(" · ")));
+
+        const chip = (label, value, color) => A.el("div", {
+          style: { display: "flex", flexDirection: "column", alignItems: "center", padding: "6px 4px", background: "#f6f7f9", borderRadius: "8px" },
+        }, [
+          A.el("div", { style: { fontSize: "11px", color: "var(--text-2)" } }, label),
+          A.el("div", { style: { fontSize: "15px", fontWeight: "600", color: color || "var(--text)" } }, String(value ?? "-")),
+        ]);
+
+        wrap.append(A.el("div", { style: { display: "grid", gridTemplateColumns: "repeat(4,1fr)", gap: "6px", marginBottom: "8px" } }, [
+          chip("총", r.total_score ?? "-", "#217346"), chip("전반", r.front_score ?? "-"), chip("후반", r.back_score ?? "-"),
+          chip("PAR대비", r.total_score != null && r.total_par ? (r.total_score - r.total_par >= 0 ? "+" : "") + (r.total_score - r.total_par) : "-"),
+        ]));
+        wrap.append(A.el("div", { style: { display: "grid", gridTemplateColumns: "repeat(4,1fr)", gap: "6px", marginBottom: "8px" } }, [
+          chip("굿티샷", r.good_tee_count ?? 0, Calc.gradeColorText("good_tee", r.good_tee_count)),
+          chip("티샷아웃", r.tee_out_count ?? 0), chip("버디온", r.birdie_on_total ?? 0), chip("퍼트", r.putts_total ?? 0),
+        ]));
+        wrap.append(A.el("div", { style: { display: "grid", gridTemplateColumns: "repeat(4,1fr)", gap: "6px", marginBottom: "8px" } }, [
+          chip("버디", r.birdie_count ?? 0), chip("파", r.par_count ?? 0), chip("보기", r.bogey_count ?? 0), chip("트리플+", r.triple_count ?? 0),
+        ]));
+        wrap.append(A.el("div", { style: { display: "grid", gridTemplateColumns: "repeat(4,1fr)", gap: "6px", marginBottom: "10px" } }, [
+          chip("멀리건", r.mulligan_total ?? 0), chip("LB", r.lost_ball_total ?? 0), chip("3퍼트", r.three_putt_count ?? 0),
+          chip("비용", full.cost && full.cost.total_cost ? full.cost.total_cost : "-"),
+        ]));
+
+        if (full.holes.some((h) => h.score != null)) wrap.append(holeStrip(full.holes));
+
+        if (full.players.length) {
+          wrap.append(A.el("div", { style: { fontSize: "12px", color: "var(--text-2)", margin: "8px 0 4px" } }, "동반자"));
+          wrap.append(A.el("div", { style: { fontSize: "13px" } },
+            full.players.map((p) => p.name + (p.score ? ` ${p.score}타` : "") + (p.note ? ` (${p.note})` : "")).join(", ")));
+        }
+        if (r.review) {
+          wrap.append(A.el("div", { style: { fontSize: "12px", color: "var(--text-2)", margin: "8px 0 4px" } }, "총평"));
+          wrap.append(A.el("div", { style: { fontSize: "13px", whiteSpace: "pre-wrap" } }, r.review));
+        }
+
+        const delArea = A.el("div", { style: { flex: "1" } });
+        let confirmDel2 = false;
+        function paintDel() {
+          delArea.innerHTML = "";
+          if (confirmDel2) {
+            delArea.append(A.el("div", { class: "btn-row" }, [
+              A.el("button", { class: "btn btn-line", onclick: () => { confirmDel2 = false; paintDel(); } }, "취소"),
+              A.el("button", { class: "btn", style: { background: "#FF5252", color: "#fff" },
+                onclick: () => { DB.deleteRound(id); A.toast("삭제됨"); onDelete && onDelete(); } }, "삭제 확정"),
+            ]));
+          } else {
+            delArea.append(A.el("button", { class: "btn", style: { background: "#fff", color: "#FF5252", border: "1px solid #FF5252" },
+              onclick: () => { confirmDel2 = true; paintDel(); } }, "삭제"));
+          }
+        }
+        paintDel();
+        wrap.append(A.el("div", { class: "btn-row", style: { marginTop: "12px" } }, [
+          A.el("button", { class: "btn btn-primary", onclick: () => A.go("input", { editId: id }) }, "수정"),
+          delArea,
+        ]));
+        return wrap;
+      }
+    }
+
+    // ══════════════════════════════════════════════════════════
+    // 동반자 목록
+    // ══════════════════════════════════════════════════════════
+    function renderCompanion() {
+      A.setAppbar("동반자 목록", "");
+      body.innerHTML = "";
+
+      if (companionDetail) {
+        renderCompanionRounds(companionDetail);
+        return;
+      }
+
+      let filter = "";
+      const search = A.el("input", { type: "text", placeholder: "이름 검색 (초성 가능)" });
+      search.addEventListener("input", () => { filter = search.value.trim(); paintList(); });
+      const listWrap = A.el("div");
+      body.append(A.el("div", { style: { marginBottom: "12px" } }, [search]), listWrap);
+      paintList();
+
+      function paintList() {
+        const all = DB.companionList();
+        const rows = filter
+          ? all.filter((c) => Calc.chosungMatch(filter, c.name || ""))
+          : all;
+        A.setAppbar("동반자 목록", `총 ${all.length}명`);
+        listWrap.innerHTML = "";
+        if (!rows.length) {
+          listWrap.append(A.el("div", { class: "empty" }, filter ? "검색 결과 없음" : "동반자 데이터가 없어요"));
+          return;
+        }
+        rows.forEach((c) => listWrap.append(compRow(c)));
+      }
+
+      function compRow(c) {
+        return A.el("div", { class: "card", style: { padding: "0", overflow: "hidden" } }, [
+          A.el("div", {
+            style: { display: "flex", alignItems: "center", justifyContent: "space-between", padding: "12px 14px", cursor: "pointer" },
+            onclick: () => { companionDetail = c.name; renderCompanion(); },
+          }, [
+            A.el("div", null, [
+              A.el("div", { style: { fontSize: "15px", fontWeight: "500" } }, c.name || "-"),
+              c.note ? A.el("div", { style: { fontSize: "11px", color: "var(--text-3)" } }, c.note) : null,
+            ]),
+            A.el("div", { style: { background: "#e8f5e9", color: "#217346", borderRadius: "8px", padding: "4px 12px", fontSize: "13px", fontWeight: "600" } },
+              `${c.n}회 동반`),
+          ]),
+        ]);
+      }
+    }
+
+    function renderCompanionRounds(name) {
+      const A = window.App;
+      const backBtn = A.el("button", { class: "ab-btn", onclick: () => { companionDetail = null; body.innerHTML = ""; renderCompanion(); } }, "← 목록");
+      A.setAppbar(`${name} 동반 라운드`, "", backBtn);
+      body.innerHTML = "";
+
+      const rows = DB.roundsByCompanion(name);
+      if (!rows.length) {
+        body.append(A.el("div", { class: "empty" }, "라운드 데이터 없음"));
+        return;
+      }
+      rows.forEach((r) => {
+        const [bg, fg] = scoreBadge(r.total_score);
+        body.append(A.el("div", { class: "card", style: { padding: "0", overflow: "hidden" } }, [
+          A.el("div", {
+            style: { display: "flex", alignItems: "center", justifyContent: "space-between", padding: "12px 14px" },
+            onclick: () => A.go("input", { editId: r.id }),
+          }, [
+            A.el("div", null, [
+              A.el("div", { style: { fontSize: "15px", fontWeight: "500" } }, r.cc_name || "-"),
+              A.el("div", { style: { fontSize: "11px", color: "var(--text-3)" } }, [
+                String(r.round_date).slice(0, 10),
+                (r.course1 || r.course2) ? ` · ${r.course1 || ""}${r.course2 ? "/" + r.course2 : ""}` : "",
+              ].join("")),
+            ]),
+            A.el("div", { style: { background: bg, color: fg, fontSize: "16px", fontWeight: "600", padding: "4px 14px", borderRadius: "8px", minWidth: "46px", textAlign: "center" } },
+              r.total_score != null ? String(r.total_score) : "-"),
+          ]),
+        ]));
+      });
+    }
+
+    // ── 홀 스트립 ─────────────────────────────────────────────
+    function holeStrip(holes) {
+      const A = window.App;
+      const cell = (h) => {
+        const has = h.score != null && h.par != null;
+        const color = has ? Calc.scoreDiffColor(h.score - h.par) : null;
+        const dark = color && color !== "#eef1f4" && color !== "#FFF59D";
+        return A.el("div", { style: {
+          width: "100%", aspectRatio: "1/1", display: "flex", alignItems: "center", justifyContent: "center",
+          fontSize: "12px", fontWeight: "600", borderRadius: "5px", border: "1px solid var(--line)",
+          background: color || "#fff", color: dark ? "#fff" : "#333",
+        } }, has ? String(h.score - h.par) : "·");
+      };
+      const grid = (arr) => A.el("div", { style: { display: "grid", gridTemplateColumns: "repeat(9,1fr)", gap: "3px" } }, arr.map(cell));
+      return A.el("div", { style: { margin: "4px 0 8px" } }, [
+        A.el("div", { style: { fontSize: "11px", color: "var(--text-3)", margin: "2px 0" } }, "전반"), grid(holes.slice(0, 9)),
+        A.el("div", { style: { fontSize: "11px", color: "var(--text-3)", margin: "4px 0 2px" } }, "후반"), grid(holes.slice(9, 18)),
+      ]);
+    }
+  };
+})();
+})();
