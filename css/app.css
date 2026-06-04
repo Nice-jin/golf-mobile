@@ -23,8 +23,7 @@
 * { box-sizing: border-box; -webkit-tap-highlight-color: transparent; }
 html, body { margin: 0; padding: 0; background: var(--bg); color: var(--text);
   font-family: -apple-system, "Malgun Gothic", "맑은 고딕", "Noto Sans KR", "Segoe UI", sans-serif;
-  font-size: 15px; line-height: 1.45; -webkit-text-size-adjust: 100%;
-  overscroll-behavior-y: none; /* Pull-to-Refresh 방지 */ }
+  font-size: 15px; line-height: 1.45; -webkit-text-size-adjust: 100%; }
 
 /* ===== 앱 레이아웃 ===== */
 #app { max-width: 560px; margin: 0 auto; min-height: 100vh; background: var(--bg); position: relative; }
