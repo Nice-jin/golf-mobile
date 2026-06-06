@@ -3,13 +3,22 @@
  *   앱 셸 사전 캐시 + sql.js(WASM) 런타임 캐시
  *   앱을 고칠 때마다 CACHE 버전을 올리면 갱신됩니다.
  * ============================================================ */
-const CACHE = "golf-mobile-v4";
+const CACHE = "golf-mobile-v5";
 const ASSETS = [
   "./",
   "index.html",
   "manifest.webmanifest",
+  "css/app.css",
   "vendor/sql-wasm.js",
   "vendor/sql-wasm.wasm",
+  "js/calc.js",
+  "js/db.js",
+  "js/app.js",
+  "js/screen_input.js",
+  "js/screen_home.js",
+  "js/screen_list.js",
+  "js/screen_stats.js",
+  "js/screen_settings.js",
   "icons/icon-192.png",
   "icons/icon-512.png",
 ];
